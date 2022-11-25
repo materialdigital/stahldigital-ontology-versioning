@@ -847,6 +847,11 @@
 <https://w3id.org/steel/ProcessOntology/Remark> <http://www.w3.org/2004/02/skos/core#altlabel> "Bemerkungen"@de .
 <https://w3id.org/steel/ProcessOntology/Remark> <http://www.w3.org/2004/02/skos/core#altlabel> "Remark"@en .
 <https://w3id.org/steel/ProcessOntology/Remark> <http://www.w3.org/2004/02/skos/core#preflabel> "Remark"@en .
+<https://w3id.org/steel/ProcessOntology/RollingDirection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/RollingDirection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/RollingDirection> <http://www.w3.org/2000/01/rdf-schema#label> "RollingDirection"@en .
+<https://w3id.org/steel/ProcessOntology/RollingDirection> <http://www.w3.org/2004/02/skos/core#altlabel> "Walzrichtung"@de .
+<https://w3id.org/steel/ProcessOntology/RollingDirection> <http://www.w3.org/2004/02/skos/core#preflabel> "RollingDirection"@en .
 <https://w3id.org/steel/ProcessOntology/RollingMill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/RollingMill> <http://www.w3.org/2000/01/rdf-schema#label> "Walzstra\u00DFe"@de .
 <https://w3id.org/steel/ProcessOntology/RollingMill> <http://www.w3.org/2000/01/rdf-schema#label> "rolling mill"@en .
@@ -1050,6 +1055,13 @@
 <https://w3id.org/steel/ProcessOntology/Tester> <http://www.w3.org/2004/02/skos/core#altlabel> "Pr\u00FCfer"@de .
 <https://w3id.org/steel/ProcessOntology/Tester> <http://www.w3.org/2004/02/skos/core#altlabel> "Tester"@en .
 <https://w3id.org/steel/ProcessOntology/Tester> <http://www.w3.org/2004/02/skos/core#preflabel> "Tester"@en .
+<https://w3id.org/steel/ProcessOntology/TestingDirection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestingDirection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TestingDirection> <http://www.w3.org/2000/01/rdf-schema#comment> "testing direction related to the rolling direction"@en .
+<https://w3id.org/steel/ProcessOntology/TestingDirection> <http://www.w3.org/2000/01/rdf-schema#label> "TestingDirection"@en .
+<https://w3id.org/steel/ProcessOntology/TestingDirection> <http://www.w3.org/2004/02/skos/core#altlabel> "Orientierung"@de .
+<https://w3id.org/steel/ProcessOntology/TestingDirection> <http://www.w3.org/2004/02/skos/core#altlabel> "testing direction"@en .
+<https://w3id.org/steel/ProcessOntology/TestingDirection> <http://www.w3.org/2004/02/skos/core#preflabel> "TestingDirection"@en .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2000/01/rdf-schema#comment> "Facility that conducted the experiment."@en .
