@@ -829,6 +829,13 @@
 <https://w3id.org/steel/ProcessOntology/RValue> <http://www.w3.org/2004/02/skos/core#altlabel> "r"@de .
 <https://w3id.org/steel/ProcessOntology/RValue> <http://www.w3.org/2004/02/skos/core#altlabel> "r-value"@en .
 <https://w3id.org/steel/ProcessOntology/RValue> <http://www.w3.org/2004/02/skos/core#preflabel> "RValue"@en .
+<https://w3id.org/steel/ProcessOntology/Radius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Radius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/Radius> <http://www.w3.org/2000/01/rdf-schema#comment> "Kerbradius (nur bei Schr\u00E4gkerb-Scherzugproben)"@de .
+<https://w3id.org/steel/ProcessOntology/Radius> <http://www.w3.org/2000/01/rdf-schema#comment> "Radius of the notch (only for notched shear tensile specimens)"@en .
+<https://w3id.org/steel/ProcessOntology/Radius> <http://www.w3.org/2000/01/rdf-schema#label> "Radius"@en .
+<https://w3id.org/steel/ProcessOntology/Radius> <http://www.w3.org/2004/02/skos/core#altlabel> "Radius"@en .
+<https://w3id.org/steel/ProcessOntology/Radius> <http://www.w3.org/2004/02/skos/core#preflabel> "Radius"@en .
 <https://w3id.org/steel/ProcessOntology/ReferenceJob> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/ReferenceJob> <http://www.w3.org/2000/01/rdf-schema#comment> "a Pyiron job for ..."@en .
 <https://w3id.org/steel/ProcessOntology/ReferenceJob> <http://www.w3.org/2000/01/rdf-schema#label> "Reference Job"@en .
@@ -883,6 +890,13 @@
 <https://w3id.org/steel/ProcessOntology/ScriptJob> <http://www.w3.org/2000/01/rdf-schema#label> "Script Job"@en .
 <https://w3id.org/steel/ProcessOntology/ScriptJob> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/steel/ProcessOntology/PyironJob> .
 <https://w3id.org/steel/ProcessOntology/ScriptJob> <http://www.w3.org/2004/02/skos/core#preflabel> "Script Job"@en .
+<https://w3id.org/steel/ProcessOntology/ShearLength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/ShearLength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/ShearLength> <http://www.w3.org/2000/01/rdf-schema#comment> "L\u00E4nge der Scherzone"@de .
+<https://w3id.org/steel/ProcessOntology/ShearLength> <http://www.w3.org/2000/01/rdf-schema#comment> "length of the shear zone"@en .
+<https://w3id.org/steel/ProcessOntology/ShearLength> <http://www.w3.org/2000/01/rdf-schema#label> "ShearLength"@en .
+<https://w3id.org/steel/ProcessOntology/ShearLength> <http://www.w3.org/2004/02/skos/core#altlabel> "ShearLength"@en .
+<https://w3id.org/steel/ProcessOntology/ShearLength> <http://www.w3.org/2004/02/skos/core#preflabel> "ShearLength"@en .
 <https://w3id.org/steel/ProcessOntology/ShearTest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/ShearTest> <http://www.w3.org/2000/01/rdf-schema#label> "Schertest"@de .
 <https://w3id.org/steel/ProcessOntology/ShearTest> <http://www.w3.org/2000/01/rdf-schema#label> "Shear Test"@en .
