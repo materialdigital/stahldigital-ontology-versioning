@@ -1317,6 +1317,7 @@
 <https://w3id.org/steel/ProcessOntology/draught> <http://www.w3.org/2004/02/skos/core#altlabel> "height reduction"@en .
 <https://w3id.org/steel/ProcessOntology/draught> <http://www.w3.org/2004/02/skos/core#preflabel> "H\u00F6henabnahme pro Stich"@de .
 <https://w3id.org/steel/ProcessOntology/draught> <http://www.w3.org/2004/02/skos/core#preflabel> "draught"@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AhasPart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/environment> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Workflow> .
 <https://w3id.org/steel/ProcessOntology/environment> <http://www.w3.org/2000/01/rdf-schema#label> "environment"@en .
@@ -1348,6 +1349,16 @@
 <https://w3id.org/steel/ProcessOntology/hasOutput> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Code> .
 <https://w3id.org/steel/ProcessOntology/hasOutput> <http://www.w3.org/2000/01/rdf-schema#label> "has output"@en .
 <https://w3id.org/steel/ProcessOntology/hasOutput> <http://www.w3.org/2004/02/skos/core#preflabel> "has output"@en .
+<https://w3id.org/steel/ProcessOntology/hasProjectName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasProjectName> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Test> .
+<https://w3id.org/steel/ProcessOntology/hasProjectName> <http://www.w3.org/2000/01/rdf-schema#label> "has project name"@en .
+<https://w3id.org/steel/ProcessOntology/hasProjectName> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/ProjectName> .
+<https://w3id.org/steel/ProcessOntology/hasProjectName> <http://www.w3.org/2004/02/skos/core#preflabel> "has project name"@en .
+<https://w3id.org/steel/ProcessOntology/hasProjectNumber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasProjectNumber> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Test> .
+<https://w3id.org/steel/ProcessOntology/hasProjectNumber> <http://www.w3.org/2000/01/rdf-schema#label> "has project number"@en .
+<https://w3id.org/steel/ProcessOntology/hasProjectNumber> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/ProjectNumber> .
+<https://w3id.org/steel/ProcessOntology/hasProjectNumber> <http://www.w3.org/2004/02/skos/core#preflabel> "has project number"@en .
 <https://w3id.org/steel/ProcessOntology/hasStandard> <http://purl.org/dc/elements/1.1/description> "the related standard (ISO / DIN / etc)"@en .
 <https://w3id.org/steel/ProcessOntology/hasStandard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/hasStandard> <http://www.w3.org/2000/01/rdf-schema#label> "has standard"@en .
@@ -1365,6 +1376,16 @@
 <https://w3id.org/steel/ProcessOntology/hasSubJob> <http://www.w3.org/2000/01/rdf-schema#label> "has a sub job"@en .
 <https://w3id.org/steel/ProcessOntology/hasSubJob> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/PyironJob> .
 <https://w3id.org/steel/ProcessOntology/hasSubJob> <http://www.w3.org/2004/02/skos/core#preflabel> "has a sub job"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestProperty> <http://purl.org/dc/elements/1.1/description> "super property for all test properties"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestProperty> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Test> .
+<https://w3id.org/steel/ProcessOntology/hasTestProperty> <http://www.w3.org/2000/01/rdf-schema#label> "has test property"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestProperty> <http://www.w3.org/2004/02/skos/core#preflabel> "has test property"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestingFacility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestingFacility> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Test> .
+<https://w3id.org/steel/ProcessOntology/hasTestingFacility> <http://www.w3.org/2000/01/rdf-schema#label> "has testing facility"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestingFacility> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestingFacility> .
+<https://w3id.org/steel/ProcessOntology/hasTestingFacility> <http://www.w3.org/2004/02/skos/core#preflabel> "has testing facility"@en .
 <https://w3id.org/steel/ProcessOntology/input> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/input> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Workflow> .
 <https://w3id.org/steel/ProcessOntology/input> <http://www.w3.org/2000/01/rdf-schema#label> "input"@en .
