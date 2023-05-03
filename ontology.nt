@@ -460,7 +460,12 @@
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "lower yield strength"@en .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2004/02/skos/core#preflabel> "LowerYieldStrength"@en .
 <https://w3id.org/steel/ProcessOntology/Lsdyna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Lsdyna> <http://www.w3.org/2000/01/rdf-schema#comment> "Simulation Software names LSDyna"@en .
+<https://w3id.org/steel/ProcessOntology/Lsdyna> <http://www.w3.org/2000/01/rdf-schema#label> "LSDyna"@de .
+<https://w3id.org/steel/ProcessOntology/Lsdyna> <http://www.w3.org/2000/01/rdf-schema#label> "LSDyna"@en .
 <https://w3id.org/steel/ProcessOntology/Lsdyna> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/steel/ProcessOntology/Solver> .
+<https://w3id.org/steel/ProcessOntology/Lsdyna> <http://www.w3.org/2004/02/skos/core#preflabel> "LSDyna"@de .
+<https://w3id.org/steel/ProcessOntology/Lsdyna> <http://www.w3.org/2004/02/skos/core#preflabel> "LSDyna"@en .
 <https://w3id.org/steel/ProcessOntology/Machine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Machine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/Machine> <http://www.w3.org/2000/01/rdf-schema#comment> "Data of the machine used for the experiment."@en .
