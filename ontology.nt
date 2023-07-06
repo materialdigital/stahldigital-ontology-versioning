@@ -596,6 +596,7 @@
 <https://w3id.org/steel/ProcessOntology/JobOutput> <http://www.w3.org/2004/02/skos/core#preflabel> "Pyiron job output"@en .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2000/01/rdf-schema#comment> "Represents the Lower Yield Strength of a material, which is the stress point at which the material transitions from elastic deformation to plastic deformation, without an increase in applied load. It is a crucial parameter in materials science, used for designing and analyzing the structural integrity and durability of materials under operational loads. The values are typically measured in Pascals (Pa)."@en .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2000/01/rdf-schema#label> "LowerYieldStrength"@en .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "Dehn-/Streckgr. ReL"@de .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "Dehngrenze ReL"@de .
