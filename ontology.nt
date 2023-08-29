@@ -237,6 +237,7 @@
 <https://w3id.org/steel/ProcessOntology/DisplacementTransducer> <http://www.w3.org/2004/02/skos/core#altlabel> "Wegaufnehmer"@de .
 <https://w3id.org/steel/ProcessOntology/DisplacementTransducer> <http://www.w3.org/2004/02/skos/core#altlabel> "extensometer system"@en .
 <https://w3id.org/steel/ProcessOntology/DisplacementTransducer> <http://www.w3.org/2004/02/skos/core#preflabel> "DisplacementTransducer"@en .
+<https://w3id.org/steel/ProcessOntology/ElasticConstants_C11_C12_C44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Elasticity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Elasticity> <http://www.w3.org/2000/01/rdf-schema#label> "Dehnbarkeit"@de .
 <https://w3id.org/steel/ProcessOntology/Elasticity> <http://www.w3.org/2000/01/rdf-schema#label> "Elasticity"@en .
@@ -454,6 +455,7 @@
 <https://w3id.org/steel/ProcessOntology/FeedbackLoop> <http://www.w3.org/2000/01/rdf-schema#label> "R\u00FCckkopplung"@de .
 <https://w3id.org/steel/ProcessOntology/FeedbackLoop> <http://www.w3.org/2004/02/skos/core#preflabel> "Feedback Loop"@en .
 <https://w3id.org/steel/ProcessOntology/FeedbackLoop> <http://www.w3.org/2004/02/skos/core#preflabel> "R\u00FCckkopplung"@de .
+<https://w3id.org/steel/ProcessOntology/FinalFlowStress_ginf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/FinalGaugeLengthAfterFracture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/FinalGaugeLengthAfterFracture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/FinalGaugeLengthAfterFracture> <http://www.w3.org/2000/01/rdf-schema#comment> "L\u00E4nge zwischen den Marken zur Kennzeichnung der Messl\u00E4nge (3.1) auf der Probe, die nach dem Bruch bei Raumtemperatur gemessen wird, nachdem die beiden Probenbruchst\u00FCcke sorgf\u00E4ltig so zusammengef\u00FCgt wurden, dass ihre Achsen in einer Geraden liegen"@de .
@@ -470,6 +472,7 @@
 <https://w3id.org/steel/ProcessOntology/FlatRolling> <http://www.w3.org/2000/01/rdf-schema#label> "flat rolling"@en .
 <https://w3id.org/steel/ProcessOntology/FlatRolling> <http://www.w3.org/2004/02/skos/core#preflabel> "Flachwalzen"@de .
 <https://w3id.org/steel/ProcessOntology/FlatRolling> <http://www.w3.org/2004/02/skos/core#preflabel> "flat rolling"@en .
+<https://w3id.org/steel/ProcessOntology/FlowStressExponent_a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/FluidSolidTransition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/FluidSolidTransition> <http://www.w3.org/2000/01/rdf-schema#label> "Fluid solid transition"@en .
 <https://w3id.org/steel/ProcessOntology/FluidSolidTransition> <http://www.w3.org/2004/02/skos/core#preflabel> "Fluid solid transition"@en .
@@ -592,6 +595,7 @@
 <https://w3id.org/steel/ProcessOntology/HDF5> <http://www.w3.org/2000/01/rdf-schema#label> "HDF5 File Format"@en .
 <https://w3id.org/steel/ProcessOntology/HDF5> <http://www.w3.org/2004/02/skos/core#preflabel> "HDF5 Dateiformat"@de .
 <https://w3id.org/steel/ProcessOntology/HDF5> <http://www.w3.org/2004/02/skos/core#preflabel> "HDF5 File Format"@en .
+<https://w3id.org/steel/ProcessOntology/HardeningModulus_h0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/2000/01/rdf-schema#comment> "The velocity of the actuator"@en .
@@ -599,6 +603,7 @@
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/2004/02/skos/core#altlabel> "Abzugsgeschw."@de .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/2004/02/skos/core#altlabel> "Initial displacement rate v0"@en .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/2004/02/skos/core#preflabel> "InitialDisplacementRate"@en .
+<https://w3id.org/steel/ProcessOntology/InitialFlowStress_g0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/InitialThickness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/InitialThickness> <http://www.w3.org/2000/01/rdf-schema#label> "Anfangsdicke"@de .
 <https://w3id.org/steel/ProcessOntology/InitialThickness> <http://www.w3.org/2000/01/rdf-schema#label> "initial thickness"@en .
@@ -1426,6 +1431,7 @@
 <https://w3id.org/steel/ProcessOntology/Stress> <http://www.w3.org/2004/02/skos/core#altlabel> "stress"@en .
 <https://w3id.org/steel/ProcessOntology/Stress> <http://www.w3.org/2004/02/skos/core#preflabel> "Spannung"@de .
 <https://w3id.org/steel/ProcessOntology/Stress> <http://www.w3.org/2004/02/skos/core#preflabel> "Stress"@en .
+<https://w3id.org/steel/ProcessOntology/StressExponent_n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/StressRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/StressRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/StressRate> <http://www.w3.org/2000/01/rdf-schema#comment> "stress rate"@en .
@@ -1835,6 +1841,7 @@
 <https://w3id.org/steel/ProcessOntology/YieldingIdentifierIsoThermal> <http://www.w3.org/2004/02/skos/core#preflabel> "YieldingIdentifierIsoThermal"@en .
 <https://w3id.org/steel/ProcessOntology/YieldingIdentifierIsoThermal> <https://w3id.org/steel/ProcessOntology/UnitLabel> "-" .
 <https://w3id.org/steel/ProcessOntology/YieldingIdentifierIsoThermal> <https://w3id.org/steel/ProcessOntology/hasLabelSourceEn> "LS-DYNA_Manual_Volume_2" .
+<https://w3id.org/steel/ProcessOntology/YoungModulus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/YoungsModulus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/YoungsModulus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/YoungsModulus> <http://www.w3.org/2000/01/rdf-schema#comment> "Linear Elastic Modulus to determine the linear elasticity"@en .
