@@ -652,6 +652,30 @@
 <https://w3id.org/steel/ProcessOntology/HDF5> <http://www.w3.org/2004/02/skos/core#preflabel> "HDF5 Dateiformat"@de .
 <https://w3id.org/steel/ProcessOntology/HDF5> <http://www.w3.org/2004/02/skos/core#preflabel> "HDF5 File Format"@en .
 <https://w3id.org/steel/ProcessOntology/HardeningModulus_h0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/2000/01/rdf-schema#comment> "Material parameter N used for the flow curve extrapolation according to Hockett and Sherby (1975)."@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/2000/01/rdf-schema#label> "Hochett Sherby Parameter N"@de .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/2000/01/rdf-schema#label> "Hockett Sherby Parameter N"@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/2004/02/skos/core#preflabel> "Hochett Sherby Parameter N"@de .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/2004/02/skos/core#preflabel> "Hockett Sherby Parameter N"@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterP> <http://www.w3.org/2000/01/rdf-schema#comment> "Material parameter p used for the flow curve extrapolation according to Hockett and Sherby (1975)."@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterP> <http://www.w3.org/2000/01/rdf-schema#label> "Hochett Sherby Parameter p"@de .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterP> <http://www.w3.org/2000/01/rdf-schema#label> "Hockett Sherby Parameter p"@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterP> <http://www.w3.org/2004/02/skos/core#preflabel> "Hochett Sherby Parameter p"@de .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyParameterP> <http://www.w3.org/2004/02/skos/core#preflabel> "Hockett Sherby Parameter p"@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbySteadyStateStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/HockettSherbySteadyStateStress> <http://www.w3.org/2000/01/rdf-schema#comment> "Steady-state flow stress used for the flow curve extrapolation according to Hockett and Sherby (1975)."@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbySteadyStateStress> <http://www.w3.org/2000/01/rdf-schema#label> "Hockett Sherby S\u00E4ttigungsflie\u00DFspannung"@de .
+<https://w3id.org/steel/ProcessOntology/HockettSherbySteadyStateStress> <http://www.w3.org/2000/01/rdf-schema#label> "Hockett Sherby Steady State Stress"@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbySteadyStateStress> <http://www.w3.org/2004/02/skos/core#preflabel> "Hockett Sherby S\u00E4ttigungsflie\u00DFspannung"@de .
+<https://w3id.org/steel/ProcessOntology/HockettSherbySteadyStateStress> <http://www.w3.org/2004/02/skos/core#preflabel> "Hockett Sherby Steady State Stress"@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyYieldStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyYieldStress> <http://www.w3.org/2000/01/rdf-schema#comment> "Yield stress used for the flow curve extrapolation according to Hockett and Sherby (1975)."@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyYieldStress> <http://www.w3.org/2000/01/rdf-schema#label> "Hockett Sherby Yield Stress"@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyYieldStress> <http://www.w3.org/2000/01/rdf-schema#label> "Hockett Sherby initiale Flie\u00DFspannung"@de .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyYieldStress> <http://www.w3.org/2004/02/skos/core#preflabel> "Hockett Sherby Yield Stress"@en .
+<https://w3id.org/steel/ProcessOntology/HockettSherbyYieldStress> <http://www.w3.org/2004/02/skos/core#preflabel> "Hockett Sherby initiale Flie\u00DFspannung"@de .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <http://www.w3.org/2000/01/rdf-schema#comment> "The velocity of the actuator"@en .
