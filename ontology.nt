@@ -748,7 +748,6 @@
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2000/01/rdf-schema#comment> "Represents the Lower Yield Strength of a material, which is the stress point at which the material transitions from elastic deformation to plastic deformation, without an increase in applied load. It is a crucial parameter in materials science, used for designing and analyzing the structural integrity and durability of materials under operational loads. The values are typically measured in Pascals (Pa)."@en .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2000/01/rdf-schema#label> "LowerYieldStrength"@en .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "Dehn-/Streckgr. ReL"@de .
-<https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "Dehngrenze ReL"@de .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "lower yield strength"@en .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <http://www.w3.org/2004/02/skos/core#preflabel> "LowerYieldStrength"@en .
 <https://w3id.org/steel/ProcessOntology/LowerYieldStrength> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/EngineeringStress> .
@@ -947,8 +946,6 @@
 <https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/PercentageExtension> .
 <https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> <http://www.w3.org/2004/02/skos/core#altlabel> "E"@en .
 <https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> <http://www.w3.org/2004/02/skos/core#altlabel> "E-Modul"@de .
-<https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> <http://www.w3.org/2004/02/skos/core#altlabel> "EModul"@de .
-<https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> <http://www.w3.org/2004/02/skos/core#altlabel> "Elastizit\u00E4tsmodul"@de .
 <https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> <http://www.w3.org/2004/02/skos/core#altlabel> "modulus of elasticity"@en .
 <https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> <http://www.w3.org/2004/02/skos/core#preflabel> "ModulusOfElasticity"@en .
 <https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/EngineeringStress> .
@@ -1092,9 +1089,7 @@
 <https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2000/01/rdf-schema#comment> "bleibende Verl\u00E4ngerung (3.3) der Messl\u00E4nge nach dem Bruch (Lu \u2212 Lo), angegeben in Prozent, bezogen auf die Anfangsmessl\u00E4nge (3.1.1)"@de .
 <https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2000/01/rdf-schema#comment> "percentage elongation after fracture"@en .
 <https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2000/01/rdf-schema#label> "PercentageElongationAfterFracture"@en .
-<https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "A"@de .
 <https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "A"@en .
-<https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "Bruchdehnung A20mm"@de .
 <https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "Bruchdehnung A_20mm"@de .
 <https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "percentage elongation after fracture"@en .
 <https://w3id.org/steel/ProcessOntology/PercentageElongationAfterFracture> <http://www.w3.org/2004/02/skos/core#preflabel> "PercentageElongationAfterFracture"@en .
@@ -1133,7 +1128,6 @@
 <https://w3id.org/steel/ProcessOntology/PercentagePlasticExtensionAtMaximumForce> <http://www.w3.org/2000/01/rdf-schema#label> "PercentagePlasticExtensionAtMaximumForce"@en .
 <https://w3id.org/steel/ProcessOntology/PercentagePlasticExtensionAtMaximumForce> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> .
 <https://w3id.org/steel/ProcessOntology/PercentagePlasticExtensionAtMaximumForce> <http://www.w3.org/2004/02/skos/core#altlabel> "Ag"@en .
-<https://w3id.org/steel/ProcessOntology/PercentagePlasticExtensionAtMaximumForce> <http://www.w3.org/2004/02/skos/core#altlabel> "Dehnung bei H\u00F6chstkraft Ag"@de .
 <https://w3id.org/steel/ProcessOntology/PercentagePlasticExtensionAtMaximumForce> <http://www.w3.org/2004/02/skos/core#altlabel> "Gleichma\u00DFdehnung Ag"@de .
 <https://w3id.org/steel/ProcessOntology/PercentagePlasticExtensionAtMaximumForce> <http://www.w3.org/2004/02/skos/core#altlabel> "percentage plastic extension at maximum force"@en .
 <https://w3id.org/steel/ProcessOntology/PercentagePlasticExtensionAtMaximumForce> <http://www.w3.org/2004/02/skos/core#preflabel> "PercentagePlasticExtensionAtMaximumForce"@en .
@@ -1146,7 +1140,6 @@
 <https://w3id.org/steel/ProcessOntology/PercentageReductionOfArea> <http://www.w3.org/2000/01/rdf-schema#label> "PercentageReductionOfArea"@en .
 <https://w3id.org/steel/ProcessOntology/PercentageReductionOfArea> <http://www.w3.org/2004/02/skos/core#altlabel> "Brucheinschn\u00FCrung Z"@de .
 <https://w3id.org/steel/ProcessOntology/PercentageReductionOfArea> <http://www.w3.org/2004/02/skos/core#altlabel> "Brucheinschn\u00FCrung"@de .
-<https://w3id.org/steel/ProcessOntology/PercentageReductionOfArea> <http://www.w3.org/2004/02/skos/core#altlabel> "Z"@de .
 <https://w3id.org/steel/ProcessOntology/PercentageReductionOfArea> <http://www.w3.org/2004/02/skos/core#altlabel> "Z"@en .
 <https://w3id.org/steel/ProcessOntology/PercentageReductionOfArea> <http://www.w3.org/2004/02/skos/core#altlabel> "percentage reduction of area"@en .
 <https://w3id.org/steel/ProcessOntology/PercentageReductionOfArea> <http://www.w3.org/2004/02/skos/core#preflabel> "PercentageReductionOfArea"@en .
@@ -1211,7 +1204,6 @@
 <https://w3id.org/steel/ProcessOntology/PoissonsRatio> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TrueStrain> .
 <https://w3id.org/steel/ProcessOntology/PoissonsRatio> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TrueWidthStrain> .
 <https://w3id.org/steel/ProcessOntology/PoissonsRatio> <http://www.w3.org/2004/02/skos/core#altlabel> "Poisson"@en .
-<https://w3id.org/steel/ProcessOntology/PoissonsRatio> <http://www.w3.org/2004/02/skos/core#altlabel> "Querkontraktion"@de .
 <https://w3id.org/steel/ProcessOntology/PoissonsRatio> <http://www.w3.org/2004/02/skos/core#preflabel> "PoissonsRatio"@en .
 <https://w3id.org/steel/ProcessOntology/PoissonsRatio> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/Material> .
 <https://w3id.org/steel/ProcessOntology/PoissonsRatio> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/ModulusOfElasticity> .
@@ -1343,7 +1335,6 @@
 <https://w3id.org/steel/ProcessOntology/RValue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/RValue> <http://www.w3.org/2000/01/rdf-schema#label> "RValue"@en .
 <https://w3id.org/steel/ProcessOntology/RValue> <http://www.w3.org/2004/02/skos/core#altlabel> "Rinc"@en .
-<https://w3id.org/steel/ProcessOntology/RValue> <http://www.w3.org/2004/02/skos/core#altlabel> "r"@de .
 <https://w3id.org/steel/ProcessOntology/RValue> <http://www.w3.org/2004/02/skos/core#preflabel> "RValue"@en .
 <https://w3id.org/steel/ProcessOntology/RValue> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/TrueStrain> .
 <https://w3id.org/steel/ProcessOntology/RValue> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/WidthStrain> .
@@ -1561,7 +1552,6 @@
 <https://w3id.org/steel/ProcessOntology/StrainRate> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/ParallelLength> .
 <https://w3id.org/steel/ProcessOntology/StrainRate> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/PercentageExtension> .
 <https://w3id.org/steel/ProcessOntology/StrainRate> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/Time> .
-<https://w3id.org/steel/ProcessOntology/StrainRate> <http://www.w3.org/2004/02/skos/core#altlabel> "Dehngeschwindigkeit"@de .
 <https://w3id.org/steel/ProcessOntology/StrainRate> <http://www.w3.org/2004/02/skos/core#altlabel> "Strain Rate"@en .
 <https://w3id.org/steel/ProcessOntology/StrainRate> <http://www.w3.org/2004/02/skos/core#altlabel> "strain rate"@en .
 <https://w3id.org/steel/ProcessOntology/StrainRate> <http://www.w3.org/2004/02/skos/core#preflabel> "StrainRate"@en .
@@ -1864,7 +1854,6 @@
 <https://w3id.org/steel/ProcessOntology/TrueStrain> <http://www.w3.org/2000/01/rdf-schema#label> "TrueStrain"@en .
 <https://w3id.org/steel/ProcessOntology/TrueStrain> <http://www.w3.org/2000/01/rdf-schema#label> "wahre Dehnung"@de .
 <https://w3id.org/steel/ProcessOntology/TrueStrain> <http://www.w3.org/2004/02/skos/core#altlabel> "Epsilon True"@en .
-<https://w3id.org/steel/ProcessOntology/TrueStrain> <http://www.w3.org/2004/02/skos/core#altlabel> "epsw(dL)"@de .
 <https://w3id.org/steel/ProcessOntology/TrueStrain> <http://www.w3.org/2004/02/skos/core#preflabel> "True Strain"@en .
 <https://w3id.org/steel/ProcessOntology/TrueStrain> <http://www.w3.org/2004/02/skos/core#preflabel> "TrueStrain"@en .
 <https://w3id.org/steel/ProcessOntology/TrueStrain> <http://www.w3.org/2004/02/skos/core#preflabel> "wahre Dehnung"@de .
@@ -1901,7 +1890,7 @@
 <https://w3id.org/steel/ProcessOntology/TrueWidthStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/TrueWidthStrain> <http://www.w3.org/2000/01/rdf-schema#comment> "true strain in width direction"@en .
 <https://w3id.org/steel/ProcessOntology/TrueWidthStrain> <http://www.w3.org/2000/01/rdf-schema#label> "TrueWidthStrain"@en .
-<https://w3id.org/steel/ProcessOntology/TrueWidthStrain> <http://www.w3.org/2004/02/skos/core#altlabel> "eps-wBreite"@de .
+<https://w3id.org/steel/ProcessOntology/TrueWidthStrain> <http://www.w3.org/2004/02/skos/core#altlabel> "e-wBreite"@de .
 <https://w3id.org/steel/ProcessOntology/TrueWidthStrain> <http://www.w3.org/2004/02/skos/core#preflabel> "TrueWidthStrain"@en .
 <https://w3id.org/steel/ProcessOntology/TrueWidthStrain> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/WidthStrain> .
 <https://w3id.org/steel/ProcessOntology/UltimateTensileStrength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
