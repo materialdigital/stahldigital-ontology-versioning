@@ -1669,13 +1669,17 @@
 <https://w3id.org/steel/ProcessOntology/Test> <http://www.w3.org/2004/02/skos/core#preflabel> "Test"@de .
 <https://w3id.org/steel/ProcessOntology/Test> <http://www.w3.org/2004/02/skos/core#preflabel> "Test"@en .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2000/01/rdf-schema#comment> "Something that a test is perfomed on"@en .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2000/01/rdf-schema#label> "Probe"@de .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2000/01/rdf-schema#label> "Test piece"@en .
+<https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2000/01/rdf-schema#label> "TestPiece"@en .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2004/02/skos/core#altlabel> " specimen"@en .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2004/02/skos/core#altlabel> "sample"@en .
+<https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2004/02/skos/core#altlabel> "test piece"@en .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2004/02/skos/core#preflabel> "Probe"@de .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2004/02/skos/core#preflabel> "Test piece"@en .
+<https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2004/02/skos/core#preflabel> "TestPiece"@en .
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <http://www.w3.org/2000/01/rdf-schema#comment> "The type of the specimen."@en .
@@ -3722,6 +3726,10 @@
 <https://w3id.org/steel/ProcessOntology/hasTensileStrength_MPa> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/steel/ProcessOntology/hasTensileStrength> .
 <https://w3id.org/steel/ProcessOntology/hasTensileStrength_MPa> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTensileStrength_MPa"@en .
 <https://w3id.org/steel/ProcessOntology/hasTensileStrength_MPa> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "MPa" .
+<https://w3id.org/steel/ProcessOntology/hasTestPiece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiece> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPiece"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPiece> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPiece"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPieceGeometry"@en .
@@ -3746,6 +3754,11 @@
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_mm> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/steel/ProcessOntology/hasTestPieceLength> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_mm> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPieceLength_mm"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_mm> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPiece"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/TestPiece" .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPiece"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestProperty> <http://purl.org/dc/elements/1.1/description> "super property for all test properties"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTestProperty> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Test> .
