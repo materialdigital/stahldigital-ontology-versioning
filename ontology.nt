@@ -546,6 +546,7 @@
 <https://w3id.org/steel/ProcessOntology/Force> <http://www.w3.org/2004/02/skos/core#altlabel> "Force-measuring device"@en .
 <https://w3id.org/steel/ProcessOntology/Force> <http://www.w3.org/2004/02/skos/core#altlabel> "Standard force"@en .
 <https://w3id.org/steel/ProcessOntology/Force> <http://www.w3.org/2004/02/skos/core#altlabel> "Standardkraft"@de .
+<https://w3id.org/steel/ProcessOntology/Force> <http://www.w3.org/2004/02/skos/core#altlabel> "force"@en .
 <https://w3id.org/steel/ProcessOntology/Force> <http://www.w3.org/2004/02/skos/core#preflabel> "Force"@en .
 <https://w3id.org/steel/ProcessOntology/Force> <http://www.w3.org/2004/02/skos/core#preflabel> "Kraft"@de .
 <https://w3id.org/steel/ProcessOntology/Force> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/ForceMeasuringDevice> .
