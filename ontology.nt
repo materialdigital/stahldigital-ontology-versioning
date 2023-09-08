@@ -349,6 +349,7 @@
 <https://w3id.org/steel/ProcessOntology/ExperimentIdentifier> <http://www.w3.org/2000/01/rdf-schema#label> "ExperimentIdentifier"@en .
 <https://w3id.org/steel/ProcessOntology/ExperimentIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Identifier based on Label-System"@en .
 <https://w3id.org/steel/ProcessOntology/ExperimentIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Label ID"@en .
+<https://w3id.org/steel/ProcessOntology/ExperimentIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Label-ID"@en .
 <https://w3id.org/steel/ProcessOntology/ExperimentIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Proben-ID"@de .
 <https://w3id.org/steel/ProcessOntology/ExperimentIdentifier> <http://www.w3.org/2004/02/skos/core#preflabel> "ExperimentIdentifier"@en .
 <https://w3id.org/steel/ProcessOntology/ExperimentalTest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -408,6 +409,7 @@
 <https://w3id.org/steel/ProcessOntology/ExtensometerGaugeLength> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/ExtensionMeasuringSystem> .
 <https://w3id.org/steel/ProcessOntology/ExtensometerGaugeLength> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/OriginalGaugeLength> .
 <https://w3id.org/steel/ProcessOntology/ExtensometerGaugeLength> <http://www.w3.org/2004/02/skos/core#altlabel> "Extensometer gauge length "@en .
+<https://w3id.org/steel/ProcessOntology/ExtensometerGaugeLength> <http://www.w3.org/2004/02/skos/core#altlabel> "L0"@en .
 <https://w3id.org/steel/ProcessOntology/ExtensometerGaugeLength> <http://www.w3.org/2004/02/skos/core#altlabel> "Messl\u00E4nge L0"@de .
 <https://w3id.org/steel/ProcessOntology/ExtensometerGaugeLength> <http://www.w3.org/2004/02/skos/core#altlabel> "Messl\u00E4nge Lo"@de .
 <https://w3id.org/steel/ProcessOntology/ExtensometerGaugeLength> <http://www.w3.org/2004/02/skos/core#altlabel> "extensometer gauge length"@en .
@@ -975,8 +977,7 @@
 <https://w3id.org/steel/ProcessOntology/NotchTensileStrength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/NotchTensileStrength> <http://www.w3.org/2000/01/rdf-schema#comment> "notch tensile strength"@en .
 <https://w3id.org/steel/ProcessOntology/NotchTensileStrength> <http://www.w3.org/2000/01/rdf-schema#label> "NotchTensileStrength"@en .
-<https://w3id.org/steel/ProcessOntology/NotchTensileStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "Zugfestigkeit Rm"@de .
-<https://w3id.org/steel/ProcessOntology/NotchTensileStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "notch tensile strength"@en .
+<https://w3id.org/steel/ProcessOntology/NotchTensileStrength> <http://www.w3.org/2004/02/skos/core#altlabel> "Rm"@de .
 <https://w3id.org/steel/ProcessOntology/NotchTensileStrength> <http://www.w3.org/2004/02/skos/core#preflabel> "NotchTensileStrength"@en .
 <https://w3id.org/steel/ProcessOntology/NotchTensileStrength> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/EngineeringStress> .
 <https://w3id.org/steel/ProcessOntology/NumberFailedIntegrationPoints> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -1014,6 +1015,7 @@
 <https://w3id.org/steel/ProcessOntology/OriginalCrosssection> <http://www.w3.org/2004/02/skos/core#altlabel> "Crosssection"@en .
 <https://w3id.org/steel/ProcessOntology/OriginalCrosssection> <http://www.w3.org/2004/02/skos/core#altlabel> "Original cross section"@en .
 <https://w3id.org/steel/ProcessOntology/OriginalCrosssection> <http://www.w3.org/2004/02/skos/core#altlabel> "Querschnitt"@de .
+<https://w3id.org/steel/ProcessOntology/OriginalCrosssection> <http://www.w3.org/2004/02/skos/core#altlabel> "S0"@de .
 <https://w3id.org/steel/ProcessOntology/OriginalCrosssection> <http://www.w3.org/2004/02/skos/core#altlabel> "S0"@en .
 <https://w3id.org/steel/ProcessOntology/OriginalCrosssection> <http://www.w3.org/2004/02/skos/core#altlabel> "original cross-sectional area of the parallel length"@en .
 <https://w3id.org/steel/ProcessOntology/OriginalCrosssection> <http://www.w3.org/2004/02/skos/core#preflabel> "OriginalCrosssection"@en .
@@ -1428,6 +1430,7 @@
 <https://w3id.org/steel/ProcessOntology/SampleIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Probennummer"@de .
 <https://w3id.org/steel/ProcessOntology/SampleIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Sample identifier"@en .
 <https://w3id.org/steel/ProcessOntology/SampleIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Specimen Name"@en .
+<https://w3id.org/steel/ProcessOntology/SampleIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Specimen name"@en .
 <https://w3id.org/steel/ProcessOntology/SampleIdentifier> <http://www.w3.org/2004/02/skos/core#preflabel> "SampleIdentifier"@en .
 <https://w3id.org/steel/ProcessOntology/ScriptJob> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/ScriptJob> <http://www.w3.org/2000/01/rdf-schema#comment> "a Pyiron job for executing a script like e.g. JupyterNotebook"@en .
@@ -1940,7 +1943,6 @@
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture1> <http://www.w3.org/2000/01/rdf-schema#label> "WidthAfterFracture1"@en .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture1> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture1> <http://www.w3.org/2004/02/skos/core#altlabel> "Probenbreite B1 nach Bruch"@de .
-<https://w3id.org/steel/ProcessOntology/WidthAfterFracture1> <http://www.w3.org/2004/02/skos/core#altlabel> "Width B1 after fracture"@en .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture1> <http://www.w3.org/2004/02/skos/core#preflabel> "WidthAfterFracture1"@en .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture1> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -1948,7 +1950,6 @@
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> <http://www.w3.org/2000/01/rdf-schema#label> "WidthAfterFracture2"@en .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/WidthAfterFracture1> .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> <http://www.w3.org/2004/02/skos/core#altlabel> "Probenbreite B2 nach Bruch"@de .
-<https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> <http://www.w3.org/2004/02/skos/core#altlabel> "Width B2 after fracture"@en .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> <http://www.w3.org/2004/02/skos/core#preflabel> "WidthAfterFracture2"@en .
 <https://w3id.org/steel/ProcessOntology/WidthAfterFracture2> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/WidthAfterFracture1> .
 <https://w3id.org/steel/ProcessOntology/WidthChange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
