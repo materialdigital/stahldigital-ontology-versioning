@@ -2431,6 +2431,94 @@
 <https://w3id.org/steel/ProcessOntology/draught> <http://www.w3.org/2004/02/skos/core#altlabel> "height reduction"@en .
 <https://w3id.org/steel/ProcessOntology/draught> <http://www.w3.org/2004/02/skos/core#preflabel> "H\u00F6henabnahme pro Stich"@de .
 <https://w3id.org/steel/ProcessOntology/draught> <http://www.w3.org/2004/02/skos/core#preflabel> "draught"@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AAlgebricEquation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AAlgebricExpression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AAlgebricOperator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AApplicationProgram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AApplicationProgram> <http://www.w3.org/2000/01/rdf-schema#comment> "A program aimed to provide a specific high level function to the user, usually hiding lower level procedures."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3ACPlusPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ACPlusPlus> <http://www.w3.org/2000/01/rdf-schema#comment> "A language object respecting the syntactic rules of C++."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3ACSharp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AChemicalCompositionQuantity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ACompositeMaterial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AComputerScience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ADataProcessing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ADataProcessing> <http://www.w3.org/2000/01/rdf-schema#comment> "A computation that provides a data output following the elaboration of some input data, using a data processing application."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AEmpiricalSimulationSoftware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AEmpiricalSimulationSoftware> <http://www.w3.org/2000/01/rdf-schema#comment> "A computational application that uses an empiric equation to predict the behaviour of a system without relying on the knowledge of the actual physical phenomena occurring in the object."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AExperiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AExperiment> <http://www.w3.org/2000/01/rdf-schema#comment> "An experiment is a process that is intended to replicate a physical phenomenon in a controlled environment."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AForce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AForce> <http://www.w3.org/2000/01/rdf-schema#comment> "Any interaction that, when unopposed, will change the motion of an object"@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AJava> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AJavaScript> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ALanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ALanguage> <http://www.w3.org/2000/01/rdf-schema#comment> "A language object is a discrete data entity respecting a specific language syntactic rules (a well-formed formula)."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterial> <http://www.w3.org/2000/01/rdf-schema#comment> "A matter individual that stands for a real world object representing an amount of a physical substance (or mixture of substances) in different states of matter or phases."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialLaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialLaw> <http://www.w3.org/2000/01/rdf-schema#comment> "A law that provides a connection between a material property and other properties of the object."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialRelation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialRelation> <http://www.w3.org/2000/01/rdf-schema#comment> "An 'equation' that stands for a physical assumption specific to a material, and provides an expression for a 'physics_quantity' (the dependent variable) as function of other variables, physics_quantity or data (independent variables)."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialSynthesis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialSynthesis> <http://www.w3.org/2000/01/rdf-schema#comment> "The creation of a material entity starting from fundamental substances, involving chemical phenomena (e.g. reaction, bonding)."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialTreatment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialTreatment> <http://www.w3.org/2000/01/rdf-schema#comment> "The processing of a material aimed to transform its structure by means of any type of treatment, without involving relevant synthesis phenomena."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialsModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialsModel> <http://www.w3.org/2000/01/rdf-schema#comment> "A solvable set of one Physics Equation and one or more Materials Relations."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialsProcessing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMaterialsProcessing> <http://www.w3.org/2000/01/rdf-schema#comment> "A manufacturing process aimed to modify the precursor objects through a physical process (involving other materials, energy, manipulation) to change its material properties."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematical> <http://www.w3.org/2000/01/rdf-schema#comment> "The class of general mathematical symbolic objects respecting mathematical syntactic rules."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematicalConstruct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematicalFunction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematicalFunction> <http://www.w3.org/2000/01/rdf-schema#comment> "A function defined using functional notation."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematicalModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematicalModel> <http://www.w3.org/2000/01/rdf-schema#comment> "An analogical icon expressed in mathematical language."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematicalOperator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematicalOperator> <http://www.w3.org/2000/01/rdf-schema#comment> "A mapping that acts on elements of one space and produces elements of another space."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMathematicalSymbol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasurement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasurement> <http://www.w3.org/2000/01/rdf-schema#comment> "An 'observation' that results in a quantitative comparison of a 'property' of an 'object' with a standard reference based on a well defined mesurement procedure."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasurementResult> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasurementResult> <http://www.w3.org/2000/01/rdf-schema#comment> "Result of a measurement.\n\nA set of quantites being attributed to a measurand (measured quantitative property) together with any other available relevant information, like measurement uncertainty.\n\n-- VIM"@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasurementUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasurementUncertainty> <http://www.w3.org/2000/01/rdf-schema#comment> "A non-negative parameter characterising the dispersion of the quantity being measured."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasurer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasurer> <http://www.w3.org/2000/01/rdf-schema#comment> "An observer that makes use of a measurement tool and provides a quantitative property."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasuringInstrument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMeasuringInstrument> <http://www.w3.org/2000/01/rdf-schema#comment> "Device used for making measurements, alone or in conjunction with one or more supplementary devices.\n\n-- VIM"@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AMetallicMaterial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AModelledQuantitativeProperty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AModeller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AModeller> <http://www.w3.org/2000/01/rdf-schema#comment> "A estimator that uses modelling to declare a property of an object (i.e. infer a property from other properties)."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsBasedModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsBasedModel> <http://www.w3.org/2000/01/rdf-schema#comment> "A mathematical entity based on a fundamental physics theory which defines the relations between physics quantities of an entity."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsBasedSimulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsBasedSimulation> <http://www.w3.org/2000/01/rdf-schema#comment> "A simulation that relies on physics based models, according to the Review of Materials Modelling and CWA 17284:2018."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsBasedSimulationSoftware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsEquation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsEquation> <http://www.w3.org/2000/01/rdf-schema#comment> "An 'equation' that stands for a 'physical_law' by mathematically defining the relations between physics_quantities."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsEquationSolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsEquationSolution> <http://www.w3.org/2000/01/rdf-schema#comment> "A function solution of a physics equation that provides a methods for the prediction of some quantitiative properties of an object."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsMathematicalComputation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3APhysicsMathematicalComputation> <http://www.w3.org/2000/01/rdf-schema#comment> "A functional icon that imitates the behaviour of the object through mathematical evaluations of some mathematical construct."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AProgrammingLanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AProgrammingLanguage> <http://www.w3.org/2000/01/rdf-schema#comment> "A language object that follows syntactic rules of a programming language."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3APython> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ASimulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ASimulation> <http://www.w3.org/2000/01/rdf-schema#comment> "A estimation of a property using a functional icon."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3ASimulationApplication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ASimulationApplication> <http://www.w3.org/2000/01/rdf-schema#comment> "An application aimed to functionally reproduce an object."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3ASoftware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ASoftware> <http://www.w3.org/2000/01/rdf-schema#comment> "All or part of the programs, procedures, rules, and associated documentation of an information processing system."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3ASourceCode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ASourceCode> <http://www.w3.org/2000/01/rdf-schema#comment> "A programming language entity expressing a formal detailed plan of what a software is intended to do."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3AStrain> <http://www.w3.org/2000/01/rdf-schema#comment> "Change of the relative positions of parts of a body, excluding a displacement of the body as a whole."@en .
+<https://w3id.org/steel/ProcessOntology/emmo%3AStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/emmo%3ATest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/environment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/environment> <http://www.w3.org/2000/01/rdf-schema#domain> <https://w3id.org/steel/ProcessOntology/Workflow> .
 <https://w3id.org/steel/ProcessOntology/environment> <http://www.w3.org/2000/01/rdf-schema#label> "environment"@en .
