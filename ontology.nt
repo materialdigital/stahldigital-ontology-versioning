@@ -354,6 +354,11 @@
 <https://w3id.org/steel/ProcessOntology/Elasticity> <http://www.w3.org/2000/01/rdf-schema#label> "Elasticity"@en .
 <https://w3id.org/steel/ProcessOntology/Elasticity> <http://www.w3.org/2004/02/skos/core#preflabel> "Dehnbarkeit"@de .
 <https://w3id.org/steel/ProcessOntology/Elasticity> <http://www.w3.org/2004/02/skos/core#preflabel> "Elasticity"@en .
+<https://w3id.org/steel/ProcessOntology/Elastoplastic%20model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Elastoplastic%20model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/Elastoplastic%20model> <http://www.w3.org/2000/01/rdf-schema#label> "Elastoplastic model"@en .
+<https://w3id.org/steel/ProcessOntology/Elastoplastic%20model> <http://www.w3.org/2000/01/rdf-schema#subClassOf> "https://material-digital.de/pmdco/ValueObject" .
+<https://w3id.org/steel/ProcessOntology/Elastoplastic%20model> <http://www.w3.org/2004/02/skos/core#preflabel> "Elastoplastic model"@en .
 <https://w3id.org/steel/ProcessOntology/Element> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Element> <http://www.w3.org/2000/01/rdf-schema#comment> "Chemical Elements"@en .
 <https://w3id.org/steel/ProcessOntology/Element> <http://www.w3.org/2000/01/rdf-schema#label> "Element"@de .
@@ -2979,6 +2984,10 @@
 <https://w3id.org/steel/ProcessOntology/hasElasticConstantC44_MPa> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/steel/ProcessOntology/hasElasticConstantC44> .
 <https://w3id.org/steel/ProcessOntology/hasElasticConstantC44_MPa> <http://www.w3.org/2004/02/skos/core#preflabel> "hasElasticConstantC44_MPa"@en .
 <https://w3id.org/steel/ProcessOntology/hasElasticConstantC44_MPa> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "MPa" .
+<https://w3id.org/steel/ProcessOntology/hasElastoplastic%20model> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasElastoplastic%20model> <http://www.w3.org/2000/01/rdf-schema#label> "hasElastoplastic model"@en .
+<https://w3id.org/steel/ProcessOntology/hasElastoplastic%20model> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/Elastoplastic model" .
+<https://w3id.org/steel/ProcessOntology/hasElastoplastic%20model> <http://www.w3.org/2004/02/skos/core#preflabel> "hasElastoplastic model"@en .
 <https://w3id.org/steel/ProcessOntology/hasElementDeletionFlag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/hasElementDeletionFlag> <http://www.w3.org/2000/01/rdf-schema#label> "hasElementDeletionFlag"@en .
 <https://w3id.org/steel/ProcessOntology/hasElementDeletionFlag> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/ElementDeletionFlag" .
