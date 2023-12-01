@@ -51,6 +51,11 @@
 <https://w3id.org/steel/ProcessOntology/BoundaryFile> <http://www.w3.org/2000/01/rdf-schema#label> "BoundaryFile"@en .
 <https://w3id.org/steel/ProcessOntology/BoundaryFile> <http://www.w3.org/2004/02/skos/core#altlabel> "Boundary file"@en .
 <https://w3id.org/steel/ProcessOntology/BoundaryFile> <http://www.w3.org/2004/02/skos/core#preflabel> "BoundaryFile"@en .
+<https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/2000/01/rdf-schema#label> "Bulgeversuch"@de .
+<https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/2000/01/rdf-schema#label> "bulge test"@en .
+<https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/2004/02/skos/core#preflabel> "Bulgeversuch"@de .
+<https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/2004/02/skos/core#preflabel> "bulge test"@en .
 <https://w3id.org/steel/ProcessOntology/CameraSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/CameraSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/CameraSystem> <http://www.w3.org/2000/01/rdf-schema#comment> "Art des Kamerasystems, welches f\u00FCr den hydraulischen Tiefungsversuch verwendet wurde."@de .
