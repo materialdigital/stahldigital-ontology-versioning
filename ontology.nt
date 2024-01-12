@@ -182,7 +182,6 @@
 <https://w3id.org/steel/ProcessOntology/CrossheadDisplacement> <http://www.w3.org/2000/01/rdf-schema#label> "CrossheadDisplacement"@en .
 <https://w3id.org/steel/ProcessOntology/CrossheadDisplacement> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/Machine> .
 <https://w3id.org/steel/ProcessOntology/CrossheadDisplacement> <http://www.w3.org/2004/02/skos/core#altlabel> "Machine Displacement"@en .
-<https://w3id.org/steel/ProcessOntology/CrossheadDisplacement> <http://www.w3.org/2004/02/skos/core#altlabel> "Macine Displacement"@en .
 <https://w3id.org/steel/ProcessOntology/CrossheadDisplacement> <http://www.w3.org/2004/02/skos/core#altlabel> "Maschine"@de .
 <https://w3id.org/steel/ProcessOntology/CrossheadDisplacement> <http://www.w3.org/2004/02/skos/core#preflabel> "CrossheadDisplacement"@en .
 <https://w3id.org/steel/ProcessOntology/CrossheadDisplacement> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/Machine> .
@@ -436,7 +435,6 @@
 <https://w3id.org/steel/ProcessOntology/EngineeringStress> <http://www.w3.org/2000/01/rdf-schema#comment> "technische Spannung"@de .
 <https://w3id.org/steel/ProcessOntology/EngineeringStress> <http://www.w3.org/2000/01/rdf-schema#label> "EngineeringStress"@en .
 <https://w3id.org/steel/ProcessOntology/EngineeringStress> <http://www.w3.org/2004/02/skos/core#altlabel> "Sigma Tech"@en .
-<https://w3id.org/steel/ProcessOntology/EngineeringStress> <http://www.w3.org/2004/02/skos/core#altlabel> "Sigma tech"@en .
 <https://w3id.org/steel/ProcessOntology/EngineeringStress> <http://www.w3.org/2004/02/skos/core#altlabel> "Sigma-technisch"@de .
 <https://w3id.org/steel/ProcessOntology/EngineeringStress> <http://www.w3.org/2004/02/skos/core#altlabel> "engineering stress"@en .
 <https://w3id.org/steel/ProcessOntology/EngineeringStress> <http://www.w3.org/2004/02/skos/core#preflabel> "EngineeringStress"@en .
@@ -1813,6 +1811,7 @@
 <https://w3id.org/steel/ProcessOntology/RollingMill> <http://www.w3.org/2004/02/skos/core#preflabel> "rolling mill"@en .
 <https://w3id.org/steel/ProcessOntology/SampleCode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/SampleCode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/SampleCode> <http://www.w3.org/2000/01/rdf-schema#comment> "QR-Code from Label System"@en .
 <https://w3id.org/steel/ProcessOntology/SampleCode> <http://www.w3.org/2000/01/rdf-schema#label> "SampleCode"@en .
 <https://w3id.org/steel/ProcessOntology/SampleCode> <http://www.w3.org/2004/02/skos/core#altlabel> "Label ID"@en .
 <https://w3id.org/steel/ProcessOntology/SampleCode> <http://www.w3.org/2004/02/skos/core#altlabel> "QR-Code from Label System"@en .
