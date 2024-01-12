@@ -1226,8 +1226,8 @@
 <https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <http://www.w3.org/2000/01/rdf-schema#label> "MinimumCrosssectionAfterFracture"@en .
 <https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "Bruchquerschnitt Su"@de .
 <https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "Minimum cross-sectional area after fracture"@en .
+<https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "SU"@en .
 <https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "Su"@de .
-<https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <http://www.w3.org/2004/02/skos/core#altlabel> "Su"@en .
 <https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <http://www.w3.org/2004/02/skos/core#preflabel> "MinimumCrosssectionAfterFracture"@en .
 <https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/DiameterAfterFracture1> .
 <https://w3id.org/steel/ProcessOntology/MinimumCrosssectionAfterFracture> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/DiameterAfterFracture2> .
@@ -2329,6 +2329,18 @@
 <https://w3id.org/steel/ProcessOntology/TransitionRadius> <http://www.w3.org/2000/01/rdf-schema#label> "TransitionRadius"@en .
 <https://w3id.org/steel/ProcessOntology/TransitionRadius> <http://www.w3.org/2004/02/skos/core#altlabel> "transition radius"@en .
 <https://w3id.org/steel/ProcessOntology/TransitionRadius> <http://www.w3.org/2004/02/skos/core#preflabel> "TransitionRadius"@en .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStrain> <http://www.w3.org/2000/01/rdf-schema#label> "TrueFractureStrain"@en .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStrain> <http://www.w3.org/2004/02/skos/core#altlabel> "Epsilon True Frac"@en .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStrain> <http://www.w3.org/2004/02/skos/core#preflabel> "TrueFractureStrain"@en .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStrain> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/TrueStrain> .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStress> <http://www.w3.org/2000/01/rdf-schema#label> "TrueFractureStress"@en .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStress> <http://www.w3.org/2004/02/skos/core#altlabel> "Sigma True Frac"@en .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStress> <http://www.w3.org/2004/02/skos/core#preflabel> "TrueFractureStress"@en .
+<https://w3id.org/steel/ProcessOntology/TrueFractureStress> <https://w3id.org/steel/ProcessOntology/isBasedOn> <https://w3id.org/steel/ProcessOntology/TrueStress> .
 <https://w3id.org/steel/ProcessOntology/TruePlasticStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TruePlasticStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/TruePlasticStrain> <http://www.w3.org/2000/01/rdf-schema#comment> "true plastic strain"@en .
@@ -5222,6 +5234,30 @@
 <https://w3id.org/steel/ProcessOntology/hasTransitionRadius_mm> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/steel/ProcessOntology/hasTransitionRadius> .
 <https://w3id.org/steel/ProcessOntology/hasTransitionRadius_mm> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTransitionRadius_mm"@en .
 <https://w3id.org/steel/ProcessOntology/hasTransitionRadius_mm> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrain> <http://www.w3.org/2000/01/rdf-schema#label> "hasTrueFractureStrain"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrain> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTrueFractureStrain"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrainObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrainObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrainObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasTrueFractureStrain"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrainObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/TrueFractureStrain" .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStrainObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTrueFractureStrain"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress> <http://www.w3.org/2000/01/rdf-schema#label> "hasTrueFractureStress"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTrueFractureStress"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStressObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStressObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStressObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasTrueFractureStress"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStressObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/TrueFractureStress" .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStressObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTrueFractureStress"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress_MPa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress_MPa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress_MPa> <http://www.w3.org/2000/01/rdf-schema#label> "hasTrueFractureStress_MPa"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress_MPa> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/steel/ProcessOntology/hasTrueFractureStress> .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress_MPa> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTrueFractureStress_MPa"@en .
+<https://w3id.org/steel/ProcessOntology/hasTrueFractureStress_MPa> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "MPa" .
 <https://w3id.org/steel/ProcessOntology/hasTruePlasticStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasTruePlasticStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTruePlasticStrain> <http://www.w3.org/2000/01/rdf-schema#label> "hasTruePlasticStrain"@en .
