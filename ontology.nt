@@ -334,6 +334,16 @@
 <https://w3id.org/steel/ProcessOntology/DrawingSpeed> <http://www.w3.org/2004/02/skos/core#altlabel> "Drawing speed"@en .
 <https://w3id.org/steel/ProcessOntology/DrawingSpeed> <http://www.w3.org/2004/02/skos/core#altlabel> "Tiefungsgeschwindigkeit"@de .
 <https://w3id.org/steel/ProcessOntology/DrawingSpeed> <http://www.w3.org/2004/02/skos/core#preflabel> "DrawingSpeed"@en .
+<https://w3id.org/steel/ProcessOntology/DuctileFailure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/DuctileFailure> <http://www.w3.org/2000/01/rdf-schema#label> "ductile failure"@en .
+<https://w3id.org/steel/ProcessOntology/DuctileFailure> <http://www.w3.org/2000/01/rdf-schema#label> "duktiles Versagen"@de .
+<https://w3id.org/steel/ProcessOntology/DuctileFailure> <http://www.w3.org/2004/02/skos/core#preflabel> "ductile failure"@en .
+<https://w3id.org/steel/ProcessOntology/DuctileFailure> <http://www.w3.org/2004/02/skos/core#preflabel> "duktiles Versagen"@de .
+<https://w3id.org/steel/ProcessOntology/Ductility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Ductility> <http://www.w3.org/2000/01/rdf-schema#label> "Duktilit\u00E4t"@de .
+<https://w3id.org/steel/ProcessOntology/Ductility> <http://www.w3.org/2000/01/rdf-schema#label> "ductility"@en .
+<https://w3id.org/steel/ProcessOntology/Ductility> <http://www.w3.org/2004/02/skos/core#preflabel> "Duktilit\u00E4t"@de .
+<https://w3id.org/steel/ProcessOntology/Ductility> <http://www.w3.org/2004/02/skos/core#preflabel> "ductility"@en .
 <https://w3id.org/steel/ProcessOntology/DynamometerArea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/DynamometerArea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/DynamometerArea> <http://www.w3.org/2000/01/rdf-schema#comment> "Querschnitt auf der fest eingespannten Seite der Probe, in der lediglich elastische Verformungen w\u00E4hrend des Versuchs erlaubt sind"@de .
@@ -577,6 +587,11 @@
 <https://w3id.org/steel/ProcessOntology/FadingExponent> <http://www.w3.org/2004/02/skos/core#preflabel> "FadingExponent"@en .
 <https://w3id.org/steel/ProcessOntology/FadingExponent> <https://w3id.org/steel/ProcessOntology/UnitLabel> "1" .
 <https://w3id.org/steel/ProcessOntology/FadingExponent> <https://w3id.org/steel/ProcessOntology/hasLabelSourceEn> "LS-DYNA_Manual_Volume_2" .
+<https://w3id.org/steel/ProcessOntology/Failure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Failure> <http://www.w3.org/2000/01/rdf-schema#label> "Versagen"@de .
+<https://w3id.org/steel/ProcessOntology/Failure> <http://www.w3.org/2000/01/rdf-schema#label> "failure"@en .
+<https://w3id.org/steel/ProcessOntology/Failure> <http://www.w3.org/2004/02/skos/core#preflabel> "Versagen"@de .
+<https://w3id.org/steel/ProcessOntology/Failure> <http://www.w3.org/2004/02/skos/core#preflabel> "failure"@en .
 <https://w3id.org/steel/ProcessOntology/FailureCriteriaTypeAdd4ElementDeletion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/FailureCriteriaTypeAdd4ElementDeletion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/FailureCriteriaTypeAdd4ElementDeletion> <http://www.w3.org/2000/01/rdf-schema#comment> "Number of time steps that the additional failure criterion must be met before element deletion"@en .
@@ -1971,6 +1986,11 @@
 <https://w3id.org/steel/ProcessOntology/StandardDeviationOfTheSlope> <http://www.w3.org/2000/01/rdf-schema#label> "StandardDeviationOfTheSlope"@en .
 <https://w3id.org/steel/ProcessOntology/StandardDeviationOfTheSlope> <http://www.w3.org/2004/02/skos/core#altlabel> "standard deviation of the slope"@en .
 <https://w3id.org/steel/ProcessOntology/StandardDeviationOfTheSlope> <http://www.w3.org/2004/02/skos/core#preflabel> "StandardDeviationOfTheSlope"@en .
+<https://w3id.org/steel/ProcessOntology/Steel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Steel> <http://www.w3.org/2000/01/rdf-schema#label> "Stahl"@de .
+<https://w3id.org/steel/ProcessOntology/Steel> <http://www.w3.org/2000/01/rdf-schema#label> "steel"@en .
+<https://w3id.org/steel/ProcessOntology/Steel> <http://www.w3.org/2004/02/skos/core#preflabel> "Stahl"@de .
+<https://w3id.org/steel/ProcessOntology/Steel> <http://www.w3.org/2004/02/skos/core#preflabel> "steel"@en .
 <https://w3id.org/steel/ProcessOntology/Strain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Strain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/Strain> <http://www.w3.org/2000/01/rdf-schema#comment> "extension expressed as a percentage of the extensometer gauge length"@en .
@@ -2220,9 +2240,9 @@
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#preflabel> "TestingFacility"@en .
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2000/01/rdf-schema#comment> "A machine pervorming an experimental test"@en .
-<https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2000/01/rdf-schema#label> "Pr\u00FCfmaschiene"@de .
+<https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2000/01/rdf-schema#label> "Pr\u00FCfmaschine"@de .
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2000/01/rdf-schema#label> "Testing machine"@en .
-<https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2004/02/skos/core#preflabel> "Pr\u00FCfmaschiene"@de .
+<https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2004/02/skos/core#preflabel> "Pr\u00FCfmaschine"@de .
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2004/02/skos/core#preflabel> "Testing machine"@en .
 <https://w3id.org/steel/ProcessOntology/TestingRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TestingRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
