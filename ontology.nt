@@ -3082,6 +3082,10 @@
 <https://w3id.org/steel/ProcessOntology/hasDeliveryDateObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasDeliveryDate"@en .
 <https://w3id.org/steel/ProcessOntology/hasDeliveryDateObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/DeliveryDate" .
 <https://w3id.org/steel/ProcessOntology/hasDeliveryDateObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasDeliveryDate"@en .
+<https://w3id.org/steel/ProcessOntology/hasDescriptionSource> <http://purl.org/dc/elements/1.1/description> "has description source"@en .
+<https://w3id.org/steel/ProcessOntology/hasDescriptionSource> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasDescriptionSource> <http://www.w3.org/2000/01/rdf-schema#label> "has description source"@en .
+<https://w3id.org/steel/ProcessOntology/hasDescriptionSource> <http://www.w3.org/2004/02/skos/core#preflabel> "has description source"@en .
 <https://w3id.org/steel/ProcessOntology/hasDiameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasDiameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasDiameter> <http://www.w3.org/2000/01/rdf-schema#label> "hasDiameter"@en .
