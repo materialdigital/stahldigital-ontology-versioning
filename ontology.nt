@@ -3787,6 +3787,8 @@
 <https://w3id.org/steel/ProcessOntology/hasEvaluationMethodObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasEvaluationMethod"@en .
 <https://w3id.org/steel/ProcessOntology/hasEvaluationMethodObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/EvaluationMethod" .
 <https://w3id.org/steel/ProcessOntology/hasEvaluationMethodObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasEvaluationMethod"@en .
+<https://w3id.org/steel/ProcessOntology/hasExampleData> <http://purl.org/dc/elements/1.1/description> "example data for the given concept"@en .
+<https://w3id.org/steel/ProcessOntology/hasExampleData> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasExperimentIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasExperimentIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasExperimentIdentifier> <http://www.w3.org/2000/01/rdf-schema#label> "hasExperimentIdentifier"@en .
@@ -4298,7 +4300,7 @@
 <https://w3id.org/steel/ProcessOntology/hasJob> <http://www.w3.org/2000/01/rdf-schema#label> "has job"@en .
 <https://w3id.org/steel/ProcessOntology/hasJob> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/PyironJob> .
 <https://w3id.org/steel/ProcessOntology/hasJob> <http://www.w3.org/2004/02/skos/core#preflabel> "has job"@en .
-<https://w3id.org/steel/ProcessOntology/hasLabelSource> <http://purl.org/dc/elements/1.1/description> "The source for the resource label (rdfs:label or skos:preflabel)"@en .
+<https://w3id.org/steel/ProcessOntology/hasLabelSource> <http://purl.org/dc/elements/1.1/description> "The source for the resource label (rdfs:label or skos:preflabel). The language tag denotes the language of the label this source is for."@en .
 <https://w3id.org/steel/ProcessOntology/hasLabelSource> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasLabelSource> <http://www.w3.org/2000/01/rdf-schema#label> "has label source"@en .
 <https://w3id.org/steel/ProcessOntology/hasLabelSource> <http://www.w3.org/2004/02/skos/core#preflabel> "has label source"@en .
@@ -5700,6 +5702,10 @@
 <https://w3id.org/steel/ProcessOntology/hasSupplierObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasSupplier"@en .
 <https://w3id.org/steel/ProcessOntology/hasSupplierObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/Supplier" .
 <https://w3id.org/steel/ProcessOntology/hasSupplierObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasSupplier"@en .
+<https://w3id.org/steel/ProcessOntology/hasSymbol> <http://purl.org/dc/elements/1.1/description> "The typical formula symbol used"@en .
+<https://w3id.org/steel/ProcessOntology/hasSymbol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasSymbolLatex> <http://purl.org/dc/elements/1.1/description> "The typical formula symbol used in latex notation"@en .
+<https://w3id.org/steel/ProcessOntology/hasSymbolLatex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTangentYieldModulus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTangentYieldModulus> <http://www.w3.org/2000/01/rdf-schema#label> "hasTangentYieldModulus"@en .
 <https://w3id.org/steel/ProcessOntology/hasTangentYieldModulus> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/TangentYieldModulus" .
@@ -6153,6 +6159,10 @@
 <https://w3id.org/steel/ProcessOntology/hasTrueWidthStrain_1> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/steel/ProcessOntology/hasTrueWidthStrain> .
 <https://w3id.org/steel/ProcessOntology/hasTrueWidthStrain_1> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTrueWidthStrain_1"@en .
 <https://w3id.org/steel/ProcessOntology/hasTrueWidthStrain_1> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "1" .
+<https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> <http://purl.org/dc/elements/1.1/description> "A typical unit label for the resource"@en .
+<https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> <http://www.w3.org/2000/01/rdf-schema#label> "has typical unit label"@en .
+<https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> <http://www.w3.org/2004/02/skos/core#preflabel> "has typical unit label"@en .
 <https://w3id.org/steel/ProcessOntology/hasUpperYieldStrength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasUpperYieldStrength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasUpperYieldStrength> <http://www.w3.org/2000/01/rdf-schema#label> "hasUpperYieldStrength"@en .
