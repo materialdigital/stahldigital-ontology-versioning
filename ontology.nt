@@ -1331,13 +1331,6 @@
 <https://w3id.org/steel/ProcessOntology/GridSize> <https://w3id.org/steel/ProcessOntology/hasSymbol> "L_0"@en .
 <https://w3id.org/steel/ProcessOntology/GridSize> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "L_0"@en .
 <https://w3id.org/steel/ProcessOntology/GridSize> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
-<https://w3id.org/steel/ProcessOntology/H340LAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-<https://w3id.org/steel/ProcessOntology/H340LAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
-<https://w3id.org/steel/ProcessOntology/H340LAD> <http://www.w3.org/2000/01/rdf-schema#label> "H340LAD"@en .
-<https://w3id.org/steel/ProcessOntology/H340LAD> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/MicroalloyedSteel> .
-<https://w3id.org/steel/ProcessOntology/H340LAD> <http://www.w3.org/2004/02/skos/core#altlabel> "H340LAD"@en .
-<https://w3id.org/steel/ProcessOntology/H340LAD> <http://www.w3.org/2004/02/skos/core#preflabel> "H340LAD"@en .
-<https://w3id.org/steel/ProcessOntology/H340LAD> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/MicroalloyedSteel> .
 <https://w3id.org/steel/ProcessOntology/HCT980C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/HCT980C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/HCT980C> <http://www.w3.org/2000/01/rdf-schema#label> "HCT980C"@en .
@@ -1369,9 +1362,11 @@
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/MicroalloyedSteel> .
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <http://www.w3.org/2004/02/skos/core#altlabel> "1.0933"@de .
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <http://www.w3.org/2004/02/skos/core#altlabel> "CR300LA"@de .
+<https://w3id.org/steel/ProcessOntology/HX340LAD> <http://www.w3.org/2004/02/skos/core#altlabel> "H340LAD"@de .
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <http://www.w3.org/2004/02/skos/core#altlabel> "HX340LAD"@en .
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <http://www.w3.org/2004/02/skos/core#preflabel> "HX340LAD"@en .
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/MicroalloyedSteel> .
+<https://w3id.org/steel/ProcessOntology/HX340LAD> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "DIN EN 10346"@de .
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "DIN EN 10346_2015"@de .
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "DIN EN 10346_2015"@en .
 <https://w3id.org/steel/ProcessOntology/HX340LAD> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "VDA 239-100"@de .
@@ -5360,15 +5355,6 @@
 <https://w3id.org/steel/ProcessOntology/hasGridSize_mm> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/steel/ProcessOntology/hasGridSize> .
 <https://w3id.org/steel/ProcessOntology/hasGridSize_mm> <http://www.w3.org/2004/02/skos/core#preflabel> "hasGridSize_mm"@en .
 <https://w3id.org/steel/ProcessOntology/hasGridSize_mm> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "mm" .
-<https://w3id.org/steel/ProcessOntology/hasH340LAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<https://w3id.org/steel/ProcessOntology/hasH340LAD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
-<https://w3id.org/steel/ProcessOntology/hasH340LAD> <http://www.w3.org/2000/01/rdf-schema#label> "hasH340LAD"@en .
-<https://w3id.org/steel/ProcessOntology/hasH340LAD> <http://www.w3.org/2004/02/skos/core#preflabel> "hasH340LAD"@en .
-<https://w3id.org/steel/ProcessOntology/hasH340LADObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
-<https://w3id.org/steel/ProcessOntology/hasH340LADObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
-<https://w3id.org/steel/ProcessOntology/hasH340LADObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasH340LAD"@en .
-<https://w3id.org/steel/ProcessOntology/hasH340LADObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/H340LAD" .
-<https://w3id.org/steel/ProcessOntology/hasH340LADObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasH340LAD"@en .
 <https://w3id.org/steel/ProcessOntology/hasHCT980C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasHCT980C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasHCT980C> <http://www.w3.org/2000/01/rdf-schema#label> "hasHCT980C"@en .
