@@ -1697,6 +1697,7 @@
 <https://w3id.org/steel/ProcessOntology/Machine> <http://www.w3.org/2004/02/skos/core#altlabel> "Pr\u00FCfmasch."@de .
 <https://w3id.org/steel/ProcessOntology/Machine> <http://www.w3.org/2004/02/skos/core#altlabel> "Pr\u00FCfmaschine"@de .
 <https://w3id.org/steel/ProcessOntology/Machine> <http://www.w3.org/2004/02/skos/core#altlabel> "Testing Machine"@en .
+<https://w3id.org/steel/ProcessOntology/Machine> <http://www.w3.org/2004/02/skos/core#altlabel> "Testing machine"@en .
 <https://w3id.org/steel/ProcessOntology/Machine> <http://www.w3.org/2004/02/skos/core#preflabel> "Machine"@en .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasDescriptionCitationSource> "Authors"@en .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasExampleData> "Instron 5985" .
@@ -1707,6 +1708,7 @@
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "AFZ1-Fz-S1Q.xlsx"@de .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "AFZ1-NZ50-25-D1Q"@en .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "AFZ1-ST-D1"@en .
+<https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "K-Type"@en .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-Fz-D1Q"@de .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-FzR4-S1Q"@de .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-FzR4-S1Q"@en .
@@ -3835,6 +3837,7 @@
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2000/01/rdf-schema#comment> "Facility that conducted the experiment."@en .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2000/01/rdf-schema#label> "TestingFacility"@en .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestingFacility> .
+<https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#altlabel> "Organization"@en .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#altlabel> "Pr\u00FCfinstitut"@de .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#altlabel> "Testing facility"@en .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#preflabel> "TestingFacility"@en .
@@ -3843,6 +3846,7 @@
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <https://w3id.org/steel/ProcessOntology/hasExampleData> "Fraunhofer IWM" .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "AFZ-BU-S1.TXT"@de .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "DX56_D_FZ2_WR00_43.TXT"@de .
+<https://w3id.org/steel/ProcessOntology/TestingFacility> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "K-Item"@en .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "deepl translator"@en .
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2000/01/rdf-schema#comment> "A machine pervorming an experimental test"@en .
