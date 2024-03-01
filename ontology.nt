@@ -1974,6 +1974,24 @@
 <https://w3id.org/steel/ProcessOntology/MeanPlasticStrainRate> <https://w3id.org/steel/ProcessOntology/hasSymbol> "epl"@en .
 <https://w3id.org/steel/ProcessOntology/MeanPlasticStrainRate> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "dot{e}_{pl}"@en .
 <https://w3id.org/steel/ProcessOntology/MeanPlasticStrainRate> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "s-1" .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/2000/01/rdf-schema#label> "MeasuringAid"@en .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/ForceMeasuringDevice> .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/2004/02/skos/core#altlabel> "Messhilfsmittel"@de .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/2004/02/skos/core#preflabel> "MeasuringAid"@en .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/ForceMeasuringDevice> .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <https://w3id.org/steel/ProcessOntology/hasExampleData> "Kraftmesszelle" .
+<https://w3id.org/steel/ProcessOntology/MeasuringAid> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "Messmitteldatenbank"@de .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <http://www.w3.org/2000/01/rdf-schema#label> "MeasuringDevice"@en .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/Machine> .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <http://www.w3.org/2004/02/skos/core#altlabel> "Messmittel"@de .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <http://www.w3.org/2004/02/skos/core#preflabel> "MeasuringDevice"@en .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/Machine> .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <https://w3id.org/steel/ProcessOntology/hasExampleData> "Hochgeschwindigkeits Pr\u00FCfmaschine" .
+<https://w3id.org/steel/ProcessOntology/MeasuringDevice> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "Messmitteldatenbank"@de .
 <https://w3id.org/steel/ProcessOntology/MeasuringRange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/MeasuringRange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/MeasuringRange> <http://www.w3.org/2000/01/rdf-schema#label> "MeasuringRange"@en .
@@ -1981,12 +1999,12 @@
 <https://w3id.org/steel/ProcessOntology/MeasuringRange> <http://www.w3.org/2004/02/skos/core#preflabel> "MeasuringRange"@en .
 <https://w3id.org/steel/ProcessOntology/MeasuringRange> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "K-Item"@de .
 <https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2000/01/rdf-schema#label> "Materialkarte"@de .
 <https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2000/01/rdf-schema#label> "mechanical card"@en .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2000/01/rdf-schema#label> "meschanische Karte"@de .
 <https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#altlabel> "MaterialCard"@en .
 <https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#altlabel> "MaterialKarte"@de .
+<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#preflabel> "Materialkarte"@de .
 <https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#preflabel> "mechanical card"@en .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#preflabel> "meschanische Karte"@de .
 <https://w3id.org/steel/ProcessOntology/MegaPA-PER-SEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/MegaPA-PER-SEC> <http://www.w3.org/2000/01/rdf-schema#comment> "Stress rate, e.g. referenced by tensile tests"@en .
 <https://w3id.org/steel/ProcessOntology/MegaPA-PER-SEC> <http://www.w3.org/2000/01/rdf-schema#label> "Mega Pascal per Second"@en .
@@ -5845,6 +5863,24 @@
 <https://w3id.org/steel/ProcessOntology/hasMeanPlasticStrainRate_s-1> <http://www.w3.org/2000/01/rdf-schema#subPropertyOf> <https://w3id.org/steel/ProcessOntology/hasMeanPlasticStrainRate> .
 <https://w3id.org/steel/ProcessOntology/hasMeanPlasticStrainRate_s-1> <http://www.w3.org/2004/02/skos/core#preflabel> "hasMeanPlasticStrainRate_s-1"@en .
 <https://w3id.org/steel/ProcessOntology/hasMeanPlasticStrainRate_s-1> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "s-1" .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAid> <http://www.w3.org/2000/01/rdf-schema#label> "hasMeasuringAid"@en .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAid> <http://www.w3.org/2004/02/skos/core#preflabel> "hasMeasuringAid"@en .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAidObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAidObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAidObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasMeasuringAid"@en .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAidObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/MeasuringAid" .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringAidObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasMeasuringAid"@en .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDevice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDevice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDevice> <http://www.w3.org/2000/01/rdf-schema#label> "hasMeasuringDevice"@en .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDevice> <http://www.w3.org/2004/02/skos/core#preflabel> "hasMeasuringDevice"@en .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDeviceObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDeviceObject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDeviceObject> <http://www.w3.org/2000/01/rdf-schema#label> "hasMeasuringDevice"@en .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDeviceObject> <http://www.w3.org/2000/01/rdf-schema#range> "https://w3id.org/steel/ProcessOntology/MeasuringDevice" .
+<https://w3id.org/steel/ProcessOntology/hasMeasuringDeviceObject> <http://www.w3.org/2004/02/skos/core#preflabel> "hasMeasuringDevice"@en .
 <https://w3id.org/steel/ProcessOntology/hasMeasuringRange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasMeasuringRange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasMeasuringRange> <http://www.w3.org/2000/01/rdf-schema#label> "hasMeasuringRange"@en .
