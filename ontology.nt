@@ -1827,11 +1827,17 @@
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2000/01/rdf-schema#label> "Material Card"@en .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2000/01/rdf-schema#label> "Material Karte"@de .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2000/01/rdf-schema#label> "MaterialCard"@en .
+<https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2000/01/rdf-schema#label> "Materialkarte"@de .
+<https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2000/01/rdf-schema#label> "material card"@en .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#altlabel> "Digitale Werkstoffbeschreibung"@de .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#altlabel> "Material Card"@en .
+<https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#altlabel> "MaterialCard"@en .
+<https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#altlabel> "MaterialKarte"@de .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#preflabel> "Material Card"@en .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#preflabel> "Material Karte"@de .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#preflabel> "MaterialCard"@en .
+<https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#preflabel> "Materialkarte"@de .
+<https://w3id.org/steel/ProcessOntology/MaterialCard> <http://www.w3.org/2004/02/skos/core#preflabel> "material card"@en .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <https://w3id.org/steel/ProcessOntology/hasDescriptionCitationSource> "General Knowledge"@de .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <https://w3id.org/steel/ProcessOntology/hasDescriptionCitationSource> "General Knowledge"@en .
 <https://w3id.org/steel/ProcessOntology/MaterialCard> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@de .
@@ -1998,13 +2004,6 @@
 <https://w3id.org/steel/ProcessOntology/MeasuringRange> <http://www.w3.org/2004/02/skos/core#altlabel> "Messbereich"@de .
 <https://w3id.org/steel/ProcessOntology/MeasuringRange> <http://www.w3.org/2004/02/skos/core#preflabel> "MeasuringRange"@en .
 <https://w3id.org/steel/ProcessOntology/MeasuringRange> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "K-Item"@de .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2000/01/rdf-schema#label> "Materialkarte"@de .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2000/01/rdf-schema#label> "mechanical card"@en .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#altlabel> "MaterialCard"@en .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#altlabel> "MaterialKarte"@de .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#preflabel> "Materialkarte"@de .
-<https://w3id.org/steel/ProcessOntology/MechanicalCard> <http://www.w3.org/2004/02/skos/core#preflabel> "mechanical card"@en .
 <https://w3id.org/steel/ProcessOntology/MegaPA-PER-SEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/MegaPA-PER-SEC> <http://www.w3.org/2000/01/rdf-schema#comment> "Stress rate, e.g. referenced by tensile tests"@en .
 <https://w3id.org/steel/ProcessOntology/MegaPA-PER-SEC> <http://www.w3.org/2000/01/rdf-schema#label> "Mega Pascal per Second"@en .
