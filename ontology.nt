@@ -7311,7 +7311,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2000/01/rdf-schema#label> "steps"@en .
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-03-20T21:24:08+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-03-20T22:24:02+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
