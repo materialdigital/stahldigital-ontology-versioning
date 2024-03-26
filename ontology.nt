@@ -979,6 +979,7 @@
 <https://w3id.org/steel/ProcessOntology/FeedbackLoop> <http://www.w3.org/2004/02/skos/core#preflabel> "Feedback Loop"@en .
 <https://w3id.org/steel/ProcessOntology/FeedbackLoop> <http://www.w3.org/2004/02/skos/core#preflabel> "R\u00FCckkopplung"@de .
 <https://w3id.org/steel/ProcessOntology/FinalFlowStress_ginf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/FinalFlowStress_ginf> <http://www.w3.org/2000/01/rdf-schema#comment> "DAMASK phenopower law parameter"@en .
 <https://w3id.org/steel/ProcessOntology/FinalGaugeLengthAfterFracture> <http://purl.org/dc/terms/description> "L\u00E4nge zwischen den Marken zur Kennzeichnung der Messl\u00E4nge (3.1) auf der Probe, die nach dem Bruch bei Raumtemperatur gemessen wird, nachdem die beiden Probenbruchst\u00FCcke sorgf\u00E4ltig so zusammengef\u00FCgt wurden, dass ihre Achsen in einer Geraden liegen"@de .
 <https://w3id.org/steel/ProcessOntology/FinalGaugeLengthAfterFracture> <http://purl.org/dc/terms/description> "length between gauge length (3.1) marks on the test piece measured after rupture, at room temperature, the two pieces having been carefully fitted back together so that their axes lie in a straight line"@en .
 <https://w3id.org/steel/ProcessOntology/FinalGaugeLengthAfterFracture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -1002,6 +1003,7 @@
 <https://w3id.org/steel/ProcessOntology/FlatRolling> <http://www.w3.org/2004/02/skos/core#preflabel> "Flachwalzen"@de .
 <https://w3id.org/steel/ProcessOntology/FlatRolling> <http://www.w3.org/2004/02/skos/core#preflabel> "flat rolling"@en .
 <https://w3id.org/steel/ProcessOntology/FlowStressExponent_a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/FlowStressExponent_a> <http://www.w3.org/2000/01/rdf-schema#comment> "DAMASK phenopower law parameter"@en .
 <https://w3id.org/steel/ProcessOntology/FluidSolidTransition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/FluidSolidTransition> <http://www.w3.org/2000/01/rdf-schema#label> "Fluid solid transition"@en .
 <https://w3id.org/steel/ProcessOntology/FluidSolidTransition> <http://www.w3.org/2004/02/skos/core#preflabel> "Fluid solid transition"@en .
@@ -1266,6 +1268,7 @@
 <https://w3id.org/steel/ProcessOntology/HardeningLaw> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@de .
 <https://w3id.org/steel/ProcessOntology/HardeningLaw> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@en .
 <https://w3id.org/steel/ProcessOntology/HardeningModulus_h0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/HardeningModulus_h0> <http://www.w3.org/2000/01/rdf-schema#comment> "DAMASK phenopower law parameter"@en .
 <https://w3id.org/steel/ProcessOntology/HardeningParameterTau0> <http://purl.org/dc/terms/description> "Verfestigungsparameter, f\u00FCr das Voce-typ Verfestigungsmodell, welches im Kristallplastizit\u00E4tsmodell verwendet wird"@de .
 <https://w3id.org/steel/ProcessOntology/HardeningParameterTau0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/HardeningParameterTau0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -1349,6 +1352,7 @@
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm s -1" .
 <https://w3id.org/steel/ProcessOntology/InitialDisplacementRate> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm/s or m/s" .
 <https://w3id.org/steel/ProcessOntology/InitialFlowStress_g0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/InitialFlowStress_g0> <http://www.w3.org/2000/01/rdf-schema#comment> "DAMASK phenopower law parameter"@en .
 <https://w3id.org/steel/ProcessOntology/InitialSheetThickness> <http://purl.org/dc/terms/description> "Ausgangsblechdicke"@de .
 <https://w3id.org/steel/ProcessOntology/InitialSheetThickness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/InitialSheetThickness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -3177,6 +3181,7 @@
 <https://w3id.org/steel/ProcessOntology/Stress> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "R"@en .
 <https://w3id.org/steel/ProcessOntology/Stress> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "MPa" .
 <https://w3id.org/steel/ProcessOntology/StressExponent_n> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/StressExponent_n> <http://www.w3.org/2000/01/rdf-schema#comment> "DAMASK phenopower law parameter"@en .
 <https://w3id.org/steel/ProcessOntology/StressRate> <http://purl.org/dc/terms/description> "Zunahme der Spannung je Zeiteinheit"@de .
 <https://w3id.org/steel/ProcessOntology/StressRate> <http://purl.org/dc/terms/description> "stress rate"@en .
 <https://w3id.org/steel/ProcessOntology/StressRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -7311,7 +7316,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2000/01/rdf-schema#label> "steps"@en .
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-03-26T12:24:05+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-03-26T13:23:59+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
