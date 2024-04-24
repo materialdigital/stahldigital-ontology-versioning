@@ -4481,6 +4481,7 @@
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#altlabel> "Pr\u00FCfinstitut"@de .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#altlabel> "Pruefinstitut"@de .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#altlabel> "Testing facility"@en .
+<https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#altlabel> "testing facility"@en .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#preflabel> "TestingFacility"@en .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <http://www.w3.org/2004/02/skos/core#related> <https://w3id.org/steel/ProcessOntology/TestingFacility> .
 <https://w3id.org/steel/ProcessOntology/TestingFacility> <https://w3id.org/steel/ProcessOntology/hasDescriptionCitationSource> "Authors"@en .
@@ -8436,7 +8437,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-04-23T07:24:08+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-04-24T07:03:06+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
