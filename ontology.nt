@@ -1333,7 +1333,7 @@
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> " Author 2" .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Author 1" .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/created> "2023-06-01" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-04-24T21:55:13+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-04-24T23:03:42+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/license> <https://creativecommons.org/licenses/by/4.0/> .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/rights> "CC-BY xlsx2owl" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
