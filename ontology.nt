@@ -125,11 +125,74 @@
 <https://w3id.org/steel/ProcessOntology/BoundaryFile> <https://w3id.org/steel/ProcessOntology/hasDescriptionCitationSource> "General Knowledge"@en .
 <https://w3id.org/steel/ProcessOntology/BoundaryFile> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@de .
 <https://w3id.org/steel/ProcessOntology/BoundaryFile> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <http://purl.org/dc/terms/description> "Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <http://www.w3.org/2000/01/rdf-schema#label> "BrinellHardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <http://www.w3.org/2004/02/skos/core#altlabel> "Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <http://www.w3.org/2004/02/skos/core#preflabel> "BrinellHardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardness> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <http://purl.org/dc/terms/description> "Average Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <http://www.w3.org/2000/01/rdf-schema#label> "BrinellHardnessAverage"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <http://www.w3.org/2004/02/skos/core#altlabel> "Average Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <http://www.w3.org/2004/02/skos/core#preflabel> "BrinellHardnessAverage"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <http://purl.org/dc/terms/description> "CRM Average Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <http://www.w3.org/2000/01/rdf-schema#label> "BrinellHardnessCRMAverage"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <http://www.w3.org/2004/02/skos/core#altlabel> "CRM Average Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <http://www.w3.org/2004/02/skos/core#preflabel> "BrinellHardnessCRMAverage"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <http://purl.org/dc/terms/description> "CRM Standard Deviation of Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <http://www.w3.org/2000/01/rdf-schema#label> "BrinellHardnessCRMStandardDeviation"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <http://www.w3.org/2004/02/skos/core#altlabel> "CRM Standard Deviation of Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <http://www.w3.org/2004/02/skos/core#preflabel> "BrinellHardnessCRMStandardDeviation"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <http://purl.org/dc/terms/description> "Standard Deviation Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <http://www.w3.org/2000/01/rdf-schema#label> "BrinellHardnessStandardDeviation"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <http://www.w3.org/2004/02/skos/core#altlabel> "Standard Deviation Brinell Hardness"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <http://www.w3.org/2004/02/skos/core#preflabel> "BrinellHardnessStandardDeviation"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <http://purl.org/dc/terms/description> "Brinell Hardness Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <http://www.w3.org/2000/01/rdf-schema#label> "BrinellHardnessUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <http://www.w3.org/2004/02/skos/core#altlabel> "Brinell Hardness Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <http://www.w3.org/2004/02/skos/core#preflabel> "BrinellHardnessUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "HBW" .
 <https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/2000/01/rdf-schema#label> "Bulgeversuch"@de .
 <https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/2000/01/rdf-schema#label> "bulge test"@en .
 <https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/2004/02/skos/core#preflabel> "Bulgeversuch"@de .
 <https://w3id.org/steel/ProcessOntology/BulgeTest> <http://www.w3.org/2004/02/skos/core#preflabel> "bulge test"@en .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <http://purl.org/dc/terms/description> "CRM Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <http://www.w3.org/2000/01/rdf-schema#label> "CRMUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <http://www.w3.org/2004/02/skos/core#altlabel> "CRM Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <http://www.w3.org/2004/02/skos/core#preflabel> "CRMUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/UNITLESS> .
+<https://w3id.org/steel/ProcessOntology/CRMUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "1" .
 <https://w3id.org/steel/ProcessOntology/CalibrationComponents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/CalibrationComponents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/CalibrationComponents> <http://www.w3.org/2000/01/rdf-schema#label> "CalibrationComponents"@en .
@@ -1694,6 +1757,47 @@
 <https://w3id.org/steel/ProcessOntology/HomogenizationModel> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
 <https://w3id.org/steel/ProcessOntology/HomogenizationModel> <http://www.w3.org/2004/02/skos/core#altlabel> "pass"@en .
 <https://w3id.org/steel/ProcessOntology/HomogenizationModel> <http://www.w3.org/2004/02/skos/core#preflabel> "HomogenizationModel"@en .
+<https://w3id.org/steel/ProcessOntology/Identifier> <http://purl.org/dc/terms/description> "ID"@en .
+<https://w3id.org/steel/ProcessOntology/Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Identifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/Identifier> <http://www.w3.org/2000/01/rdf-schema#label> "Identifier"@en .
+<https://w3id.org/steel/ProcessOntology/Identifier> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/Identifier> <http://www.w3.org/2004/02/skos/core#altlabel> "ID"@en .
+<https://w3id.org/steel/ProcessOntology/Identifier> <http://www.w3.org/2004/02/skos/core#preflabel> "Identifier"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <http://purl.org/dc/terms/description> "Average Indentation Diameter"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <http://www.w3.org/2000/01/rdf-schema#label> "IndentationDiameterAverage"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <http://www.w3.org/2004/02/skos/core#altlabel> "Average Indentation Diameter"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <http://www.w3.org/2004/02/skos/core#preflabel> "IndentationDiameterAverage"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <http://purl.org/dc/terms/description> "Indentation Horizontal Diameter"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <http://www.w3.org/2000/01/rdf-schema#label> "IndentationDiameterHorizontal"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <http://www.w3.org/2004/02/skos/core#altlabel> "Indentation Horizontal Diameter"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <http://www.w3.org/2004/02/skos/core#preflabel> "IndentationDiameterHorizontal"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <http://purl.org/dc/terms/description> "Indentation Vertical Diameter"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <http://www.w3.org/2000/01/rdf-schema#label> "IndentationDiameterVertical"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <http://www.w3.org/2004/02/skos/core#altlabel> "Indentation Vertical Diameter"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <http://www.w3.org/2004/02/skos/core#preflabel> "IndentationDiameterVertical"@en .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/IndenterIdentifier> <http://purl.org/dc/terms/description> "Indenter Identifier"@en .
+<https://w3id.org/steel/ProcessOntology/IndenterIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/IndenterIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/IndenterIdentifier> <http://www.w3.org/2000/01/rdf-schema#label> "IndenterIdentifier"@en .
+<https://w3id.org/steel/ProcessOntology/IndenterIdentifier> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/IndenterIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Indenter Identifier"@en .
+<https://w3id.org/steel/ProcessOntology/IndenterIdentifier> <http://www.w3.org/2004/02/skos/core#preflabel> "IndenterIdentifier"@en .
 <https://w3id.org/steel/ProcessOntology/InitialCriticalStrength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/InitialCriticalStrength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/InitialCriticalStrength> <http://www.w3.org/2000/01/rdf-schema#label> "InitialCriticalStrength"@en .
@@ -2306,6 +2410,15 @@
 <https://w3id.org/steel/ProcessOntology/MeanPlasticStrainRate> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "\\dot{e}_{pl}"@en .
 <https://w3id.org/steel/ProcessOntology/MeanPlasticStrainRate> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/PER-SEC> .
 <https://w3id.org/steel/ProcessOntology/MeanPlasticStrainRate> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "s-1" .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <http://purl.org/dc/terms/description> "Measurement Resolution Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <http://www.w3.org/2000/01/rdf-schema#label> "MeasurementResolutionUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <http://www.w3.org/2004/02/skos/core#altlabel> "Measurement Resolution Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <http://www.w3.org/2004/02/skos/core#preflabel> "MeasurementResolutionUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "HBW" .
 <https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/MeasuringAid> <http://www.w3.org/2000/01/rdf-schema#label> "MeasuringAid"@en .
@@ -3097,6 +3210,15 @@
 <https://w3id.org/steel/ProcessOntology/PermanentSetStrength> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "R_{r}"@en .
 <https://w3id.org/steel/ProcessOntology/PermanentSetStrength> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MegaPA> .
 <https://w3id.org/steel/ProcessOntology/PermanentSetStrength> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "MPa" .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <http://purl.org/dc/terms/description> "Permissible Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <http://www.w3.org/2000/01/rdf-schema#label> "PermissibleUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <http://www.w3.org/2004/02/skos/core#altlabel> "Permissible Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <http://www.w3.org/2004/02/skos/core#preflabel> "PermissibleUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/UNITLESS> .
+<https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "1" .
 <https://w3id.org/steel/ProcessOntology/Phase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Phase> <http://www.w3.org/2000/01/rdf-schema#comment> "Region of space (a thermodynamic system), throughout which all physical properties of a material are essentially uniform (Wikipedia)"@en .
 <https://w3id.org/steel/ProcessOntology/Phase> <http://www.w3.org/2000/01/rdf-schema#label> "Phase"@de .
@@ -3629,6 +3751,15 @@
 <https://w3id.org/steel/ProcessOntology/Remark> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-FzR4-S1Q"@de .
 <https://w3id.org/steel/ProcessOntology/Remark> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-Sz0\u00B0-S1L"@de .
 <https://w3id.org/steel/ProcessOntology/Remark> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "deepl translator"@en .
+<https://w3id.org/steel/ProcessOntology/Repetition> <http://purl.org/dc/terms/description> "Indentation Repetition"@en .
+<https://w3id.org/steel/ProcessOntology/Repetition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Repetition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/Repetition> <http://www.w3.org/2000/01/rdf-schema#label> "Repetition"@en .
+<https://w3id.org/steel/ProcessOntology/Repetition> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/Repetition> <http://www.w3.org/2004/02/skos/core#altlabel> "Indentation Repetition"@en .
+<https://w3id.org/steel/ProcessOntology/Repetition> <http://www.w3.org/2004/02/skos/core#preflabel> "Repetition"@en .
+<https://w3id.org/steel/ProcessOntology/Repetition> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/Repetition> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
 <https://w3id.org/steel/ProcessOntology/ResultsFile> <http://purl.org/dc/terms/description> "\"Datei, die die Ergebnisse eines virtuellen Versuchs beinhaltet.\" [General Knowledge]"@de .
 <https://w3id.org/steel/ProcessOntology/ResultsFile> <http://purl.org/dc/terms/description> "\"File containing the results of a single virtual experiment\" [General Knowledge]"@en .
 <https://w3id.org/steel/ProcessOntology/ResultsFile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -4307,6 +4438,13 @@
 <https://w3id.org/steel/ProcessOntology/TestPiece> <http://www.w3.org/2004/02/skos/core#preflabel> "TestPiece"@en .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "DIN EN ISO 6892-1, Tabelle 1"@de .
 <https://w3id.org/steel/ProcessOntology/TestPiece> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "DIN EN ISO 6892-1, Table 1"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceComposition> <http://purl.org/dc/terms/description> "Test Piece Composition"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceComposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestPieceComposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TestPieceComposition> <http://www.w3.org/2000/01/rdf-schema#label> "TestPieceComposition"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceComposition> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/TestPieceComposition> <http://www.w3.org/2004/02/skos/core#altlabel> "Test Piece Composition"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceComposition> <http://www.w3.org/2004/02/skos/core#preflabel> "TestPieceComposition"@en .
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <http://purl.org/dc/terms/description> "\"The specimen geometry including nominal dimensions\" [Authors]"@en .
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <http://purl.org/dc/terms/description> "\"The type of the specimen.\" [Authors]"@en .
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <http://purl.org/dc/terms/description> "\"die Probengeometrie incl. Sollabmessungen\" [Authors]"@de .
@@ -4347,6 +4485,13 @@
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-FzR4-S1Q"@en .
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-Sz0\u00B0-S1L"@de .
 <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "deepl translator"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> <http://purl.org/dc/terms/description> "Test Piece Identifier"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> <http://www.w3.org/2000/01/rdf-schema#label> "TestPieceIdentifier"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> <http://www.w3.org/2004/02/skos/core#altlabel> "Test Piece Identifier"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> <http://www.w3.org/2004/02/skos/core#preflabel> "TestPieceIdentifier"@en .
 <https://w3id.org/steel/ProcessOntology/TestPieceLength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TestPieceLength> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/TestPieceLength> <http://www.w3.org/2000/01/rdf-schema#label> "TestPieceLength"@en .
@@ -4360,6 +4505,34 @@
 <https://w3id.org/steel/ProcessOntology/TestPieceLength> <https://w3id.org/steel/ProcessOntology/hasSymbol> "L_{t}"@en .
 <https://w3id.org/steel/ProcessOntology/TestPieceLength> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MilliM> .
 <https://w3id.org/steel/ProcessOntology/TestPieceLength> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/TestPiecePreparation> <http://purl.org/dc/terms/description> "Test Piece Preparation"@en .
+<https://w3id.org/steel/ProcessOntology/TestPiecePreparation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestPiecePreparation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TestPiecePreparation> <http://www.w3.org/2000/01/rdf-schema#label> "TestPiecePreparation"@en .
+<https://w3id.org/steel/ProcessOntology/TestPiecePreparation> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/TestPiecePreparation> <http://www.w3.org/2004/02/skos/core#altlabel> "Test Piece Preparation"@en .
+<https://w3id.org/steel/ProcessOntology/TestPiecePreparation> <http://www.w3.org/2004/02/skos/core#preflabel> "TestPiecePreparation"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceProcessing> <http://purl.org/dc/terms/description> "Test Piece Processing"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceProcessing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestPieceProcessing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TestPieceProcessing> <http://www.w3.org/2000/01/rdf-schema#label> "TestPieceProcessing"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceProcessing> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/TestPieceProcessing> <http://www.w3.org/2004/02/skos/core#altlabel> "Test Piece Processing"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceProcessing> <http://www.w3.org/2004/02/skos/core#preflabel> "TestPieceProcessing"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceProducer> <http://purl.org/dc/terms/description> "Test Piece Producer"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceProducer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestPieceProducer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TestPieceProducer> <http://www.w3.org/2000/01/rdf-schema#label> "TestPieceProducer"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceProducer> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/TestPieceProducer> <http://www.w3.org/2004/02/skos/core#altlabel> "Test Piece Producer"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceProducer> <http://www.w3.org/2004/02/skos/core#preflabel> "TestPieceProducer"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceThickness> <http://purl.org/dc/terms/description> "Test Piece Thickness"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceThickness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestPieceThickness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TestPieceThickness> <http://www.w3.org/2000/01/rdf-schema#label> "TestPieceThickness"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceThickness> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/TestPieceThickness> <http://www.w3.org/2004/02/skos/core#altlabel> "Test Piece Thickness"@en .
+<https://w3id.org/steel/ProcessOntology/TestPieceThickness> <http://www.w3.org/2004/02/skos/core#preflabel> "TestPieceThickness"@en .
 <https://w3id.org/steel/ProcessOntology/TestStandard> <http://purl.org/dc/terms/description> "\"Test Standard unter dem der hydraulische Tiefungsversuch durchgef\u00FChrt wurde.\" [Authors]"@de .
 <https://w3id.org/steel/ProcessOntology/TestStandard> <http://purl.org/dc/terms/description> "\"Test Standard unter dem der hydraulische Tiefungsversuch durchgef\u00FChrt wurde.\" [wes]"@de .
 <https://w3id.org/steel/ProcessOntology/TestStandard> <http://purl.org/dc/terms/description> "\"Test standard to which the test is referred\" [Authors]"@en .
@@ -4499,6 +4672,15 @@
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2000/01/rdf-schema#label> "Testing machine"@en .
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2004/02/skos/core#preflabel> "Pr\u00FCfmaschine"@de .
 <https://w3id.org/steel/ProcessOntology/TestingMachine> <http://www.w3.org/2004/02/skos/core#preflabel> "Testing machine"@en .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <http://purl.org/dc/terms/description> "Testing Machine Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <http://www.w3.org/2000/01/rdf-schema#label> "TestingMachineUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <http://www.w3.org/2004/02/skos/core#altlabel> "Testing Machine Uncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <http://www.w3.org/2004/02/skos/core#preflabel> "TestingMachineUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/UNITLESS> .
+<https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "1" .
 <https://w3id.org/steel/ProcessOntology/TestingRate> <http://purl.org/dc/terms/description> "\"w\u00E4hrend des Versuchs verwendete Geschwindigkeit(en) als Oberbegriff\" [DIN EN ISO 6892-1, 3.7]"@de .
 <https://w3id.org/steel/ProcessOntology/TestingRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TestingRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -4662,6 +4844,15 @@
 <https://w3id.org/steel/ProcessOntology/TimeStamp> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-FzR4-S1Q"@en .
 <https://w3id.org/steel/ProcessOntology/TimeStamp> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-Sz0\u00B0-S1L"@de .
 <https://w3id.org/steel/ProcessOntology/TimeStamp> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "deepl translator"@en .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <http://purl.org/dc/terms/description> "Total Average Diameter"@en .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <http://www.w3.org/2000/01/rdf-schema#label> "TotalAverageDiameter"@en .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <http://www.w3.org/2004/02/skos/core#altlabel> "Total Average Diameter"@en .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <http://www.w3.org/2004/02/skos/core#preflabel> "TotalAverageDiameter"@en .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
 <https://w3id.org/steel/ProcessOntology/TotalElongation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TotalElongation> <http://www.w3.org/2000/01/rdf-schema#label> "Bruchdehnung"@de .
 <https://w3id.org/steel/ProcessOntology/TotalElongation> <http://www.w3.org/2000/01/rdf-schema#label> "Total Elongation"@en .
@@ -5249,6 +5440,90 @@
 <https://w3id.org/steel/ProcessOntology/hasBoundaryFile_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasBoundaryFile"@en .
 <https://w3id.org/steel/ProcessOntology/hasBoundaryFile_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/BoundaryFile> .
 <https://w3id.org/steel/ProcessOntology/hasBoundaryFile_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasBoundaryFile"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_HBW> <http://www.w3.org/2000/01/rdf-schema#label> "has BrinellHardnessAverage" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_Object> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_HBW> <https://w3id.org/steel/ProcessOntology/hasUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_HBW> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasBrinellHardnessAverage"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/BrinellHardnessAverage> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessAverage_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasBrinellHardnessAverage"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_HBW> <http://www.w3.org/2000/01/rdf-schema#label> "has BrinellHardnessCRMAverage" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_Object> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_HBW> <https://w3id.org/steel/ProcessOntology/hasUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_HBW> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasBrinellHardnessCRMAverage"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMAverage> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMAverage_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasBrinellHardnessCRMAverage"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_HBW> <http://www.w3.org/2000/01/rdf-schema#label> "has BrinellHardnessCRMStandardDeviation" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_Object> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_HBW> <https://w3id.org/steel/ProcessOntology/hasUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_HBW> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasBrinellHardnessCRMStandardDeviation"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/BrinellHardnessCRMStandardDeviation> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessCRMStandardDeviation_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasBrinellHardnessCRMStandardDeviation"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_HBW> <http://www.w3.org/2000/01/rdf-schema#label> "has BrinellHardnessStandardDeviation" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_Object> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_HBW> <https://w3id.org/steel/ProcessOntology/hasUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_HBW> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasBrinellHardnessStandardDeviation"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/BrinellHardnessStandardDeviation> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessStandardDeviation_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasBrinellHardnessStandardDeviation"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_HBW> <http://www.w3.org/2000/01/rdf-schema#label> "has BrinellHardnessUncertainty" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_Object> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_HBW> <https://w3id.org/steel/ProcessOntology/hasUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_HBW> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasBrinellHardnessUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/BrinellHardnessUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardnessUncertainty_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasBrinellHardnessUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_HBW> <http://www.w3.org/2000/01/rdf-schema#label> "has BrinellHardness" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/BrinellHardness> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasBrinellHardness_Object> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_HBW> <https://w3id.org/steel/ProcessOntology/hasUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_HBW> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasBrinellHardness"@en .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/BrinellHardness> .
+<https://w3id.org/steel/ProcessOntology/hasBrinellHardness_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasBrinellHardness"@en .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasCRMUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/CRMUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasCRMUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_UNITLESS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_UNITLESS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#label> "has CRMUncertainty" .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/CRMUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_Object> .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_UNITLESS> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/UNITLESS> .
+<https://w3id.org/steel/ProcessOntology/hasCRMUncertainty_UNITLESS> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "1" .
 <https://w3id.org/steel/ProcessOntology/hasCalibrationComponents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasCalibrationComponents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasCalibrationComponents> <http://www.w3.org/2000/01/rdf-schema#label> "has CalibrationComponents" .
@@ -6216,6 +6491,62 @@
 <https://w3id.org/steel/ProcessOntology/hasHomogenizationModel_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasHomogenizationModel"@en .
 <https://w3id.org/steel/ProcessOntology/hasHomogenizationModel_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/HomogenizationModel> .
 <https://w3id.org/steel/ProcessOntology/hasHomogenizationModel_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasHomogenizationModel"@en .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier> <http://www.w3.org/2000/01/rdf-schema#label> "has Identifier" .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/Identifier> .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasIdentifier_Object> .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasIdentifier"@en .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/Identifier> .
+<https://w3id.org/steel/ProcessOntology/hasIdentifier_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasIdentifier"@en .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_MilliM> <http://www.w3.org/2000/01/rdf-schema#label> "has IndentationDiameterAverage" .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_Object> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasIndentationDiameterAverage"@en .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/IndentationDiameterAverage> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterAverage_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasIndentationDiameterAverage"@en .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_MilliM> <http://www.w3.org/2000/01/rdf-schema#label> "has IndentationDiameterHorizontal" .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_Object> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasIndentationDiameterHorizontal"@en .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/IndentationDiameterHorizontal> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterHorizontal_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasIndentationDiameterHorizontal"@en .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_MilliM> <http://www.w3.org/2000/01/rdf-schema#label> "has IndentationDiameterVertical" .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_Object> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasIndentationDiameterVertical"@en .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/IndentationDiameterVertical> .
+<https://w3id.org/steel/ProcessOntology/hasIndentationDiameterVertical_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasIndentationDiameterVertical"@en .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier> <http://www.w3.org/2000/01/rdf-schema#label> "has IndenterIdentifier" .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/IndenterIdentifier> .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier_Object> .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasIndenterIdentifier"@en .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/IndenterIdentifier> .
+<https://w3id.org/steel/ProcessOntology/hasIndenterIdentifier_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasIndenterIdentifier"@en .
 <https://w3id.org/steel/ProcessOntology/hasInitialCriticalStrength_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/hasInitialCriticalStrength_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasInitialCriticalStrength"@en .
 <https://w3id.org/steel/ProcessOntology/hasInitialCriticalStrength_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/InitialCriticalStrength> .
@@ -6600,6 +6931,18 @@
 <https://w3id.org/steel/ProcessOntology/hasMeanPlasticStrainRate_PER-SEC> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasMeanPlasticStrainRate_Object> .
 <https://w3id.org/steel/ProcessOntology/hasMeanPlasticStrainRate_PER-SEC> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/PER-SEC> .
 <https://w3id.org/steel/ProcessOntology/hasMeanPlasticStrainRate_PER-SEC> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "s-1" .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_HBW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_HBW> <http://www.w3.org/2000/01/rdf-schema#label> "has MeasurementResolutionUncertainty" .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_HBW> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_Object> .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_HBW> <https://w3id.org/steel/ProcessOntology/hasUnit> <https://w3id.org/steel/ProcessOntology/HBW> .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_HBW> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "HBW" .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasMeasurementResolutionUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/MeasurementResolutionUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasMeasurementResolutionUncertainty_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasMeasurementResolutionUncertainty"@en .
 <https://w3id.org/steel/ProcessOntology/hasMeasuringAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasMeasuringAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasMeasuringAid> <http://www.w3.org/2000/01/rdf-schema#label> "has MeasuringAid" .
@@ -7035,6 +7378,18 @@
 <https://w3id.org/steel/ProcessOntology/hasPermanentSetStrength_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasPermanentSetStrength"@en .
 <https://w3id.org/steel/ProcessOntology/hasPermanentSetStrength_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/PermanentSetStrength> .
 <https://w3id.org/steel/ProcessOntology/hasPermanentSetStrength_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasPermanentSetStrength"@en .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasPermissibleUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasPermissibleUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_UNITLESS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_UNITLESS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#label> "has PermissibleUncertainty" .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/PermissibleUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_Object> .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_UNITLESS> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/UNITLESS> .
+<https://w3id.org/steel/ProcessOntology/hasPermissibleUncertainty_UNITLESS> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "1" .
 <https://w3id.org/steel/ProcessOntology/hasPistonSpeed_MilliM-PER-SEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasPistonSpeed_MilliM-PER-SEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasPistonSpeed_MilliM-PER-SEC> <http://www.w3.org/2000/01/rdf-schema#label> "has PistonSpeed" .
@@ -7373,6 +7728,18 @@
 <https://w3id.org/steel/ProcessOntology/hasRemark_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasRemark"@en .
 <https://w3id.org/steel/ProcessOntology/hasRemark_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/Remark> .
 <https://w3id.org/steel/ProcessOntology/hasRemark_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasRemark"@en .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_MilliM> <http://www.w3.org/2000/01/rdf-schema#label> "has Repetition" .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/Repetition> .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasRepetition_Object> .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasRepetition"@en .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/Repetition> .
+<https://w3id.org/steel/ProcessOntology/hasRepetition_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasRepetition"@en .
 <https://w3id.org/steel/ProcessOntology/hasResultsFile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasResultsFile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasResultsFile> <http://www.w3.org/2000/01/rdf-schema#label> "has ResultsFile" .
@@ -7801,6 +8168,16 @@
 <https://w3id.org/steel/ProcessOntology/hasTestPiece> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPiece" .
 <https://w3id.org/steel/ProcessOntology/hasTestPiece> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestPiece> .
 <https://w3id.org/steel/ProcessOntology/hasTestPiece> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTestPiece_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPieceComposition" .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestPieceComposition> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTestPieceComposition_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPieceComposition"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestPieceComposition> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceComposition_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPieceComposition"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPieceGeometry" .
@@ -7811,6 +8188,16 @@
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPieceGeometry"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestPieceGeometry> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceGeometry_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPieceGeometry"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPieceIdentifier" .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPieceIdentifier"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestPieceIdentifier> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceIdentifier_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPieceIdentifier"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_MilliM> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPieceLength" .
@@ -7823,6 +8210,46 @@
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPieceLength"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestPieceLength> .
 <https://w3id.org/steel/ProcessOntology/hasTestPieceLength_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPieceLength"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPiecePreparation" .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestPiecePreparation> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPiecePreparation"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestPiecePreparation> .
+<https://w3id.org/steel/ProcessOntology/hasTestPiecePreparation_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPiecePreparation"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPieceProcessing" .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestPieceProcessing> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPieceProcessing"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestPieceProcessing> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProcessing_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPieceProcessing"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPieceProducer" .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestPieceProducer> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTestPieceProducer_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPieceProducer"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestPieceProducer> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceProducer_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPieceProducer"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness> <http://www.w3.org/2000/01/rdf-schema#label> "has TestPieceThickness" .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestPieceThickness> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTestPieceThickness_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPieceThickness"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestPieceThickness> .
+<https://w3id.org/steel/ProcessOntology/hasTestPieceThickness_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestPieceThickness"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestPiece_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasTestPiece_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTestPiece_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestPiece"@en .
@@ -7912,6 +8339,18 @@
 <https://w3id.org/steel/ProcessOntology/hasTestingFacility_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestingFacility"@en .
 <https://w3id.org/steel/ProcessOntology/hasTestingFacility_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestingFacility> .
 <https://w3id.org/steel/ProcessOntology/hasTestingFacility_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestingFacility"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTestingMachineUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTestingMachineUncertainty"@en .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_UNITLESS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_UNITLESS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#label> "has TestingMachineUncertainty" .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_UNITLESS> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_UNITLESS> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/UNITLESS> .
+<https://w3id.org/steel/ProcessOntology/hasTestingMachineUncertainty_UNITLESS> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "1" .
 <https://w3id.org/steel/ProcessOntology/hasTestingRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasTestingRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTestingRate> <http://www.w3.org/2000/01/rdf-schema#label> "has TestingRate" .
@@ -7990,6 +8429,18 @@
 <https://w3id.org/steel/ProcessOntology/hasTime_SEC> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTime_Object> .
 <https://w3id.org/steel/ProcessOntology/hasTime_SEC> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/SEC> .
 <https://w3id.org/steel/ProcessOntology/hasTime_SEC> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "s" .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_MilliM> <http://www.w3.org/2000/01/rdf-schema#label> "has TotalAverageDiameter" .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_MilliM> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_Object> .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnit> <http://qudt.org/vocab/unit/MilliM> .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_MilliM> <https://w3id.org/steel/ProcessOntology/hasUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTotalAverageDiameter"@en .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/TotalAverageDiameter> .
+<https://w3id.org/steel/ProcessOntology/hasTotalAverageDiameter_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasTotalAverageDiameter"@en .
 <https://w3id.org/steel/ProcessOntology/hasTotalEngineeringStrain_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasTotalEngineeringStrain_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/hasTotalEngineeringStrain_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasTotalEngineeringStrain"@en .
@@ -8441,7 +8892,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-02T16:23:54+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-02T16:40:44+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
