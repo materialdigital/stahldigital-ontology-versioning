@@ -864,6 +864,13 @@
 <https://w3id.org/steel/ProcessOntology/Elongation> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "ISO 26203-2, 2011, 4"@en .
 <https://w3id.org/steel/ProcessOntology/Elongation> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MilliM> .
 <https://w3id.org/steel/ProcessOntology/Elongation> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/Empty> <http://purl.org/dc/terms/description> "Empty meta or column data"@en .
+<https://w3id.org/steel/ProcessOntology/Empty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Empty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/Empty> <http://www.w3.org/2000/01/rdf-schema#label> "Empty"@en .
+<https://w3id.org/steel/ProcessOntology/Empty> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/Empty> <http://www.w3.org/2004/02/skos/core#altlabel> "Empty meta or column data"@en .
+<https://w3id.org/steel/ProcessOntology/Empty> <http://www.w3.org/2004/02/skos/core#preflabel> "Empty"@en .
 <https://w3id.org/steel/ProcessOntology/EngineeringStrain> <http://purl.org/dc/terms/description> "\"time dependent engineering strain \" [ISO 26203-2, 2011, 4]"@en .
 <https://w3id.org/steel/ProcessOntology/EngineeringStrain> <http://purl.org/dc/terms/description> "\"zeitabh\u00E4ngige technische Dehnung\" [Authors]"@de .
 <https://w3id.org/steel/ProcessOntology/EngineeringStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -5974,6 +5981,16 @@
 <https://w3id.org/steel/ProcessOntology/hasElongation_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasElongation"@en .
 <https://w3id.org/steel/ProcessOntology/hasElongation_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/Elongation> .
 <https://w3id.org/steel/ProcessOntology/hasElongation_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasElongation"@en .
+<https://w3id.org/steel/ProcessOntology/hasEmpty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasEmpty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasEmpty> <http://www.w3.org/2000/01/rdf-schema#label> "has Empty" .
+<https://w3id.org/steel/ProcessOntology/hasEmpty> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/Empty> .
+<https://w3id.org/steel/ProcessOntology/hasEmpty> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasEmpty_Object> .
+<https://w3id.org/steel/ProcessOntology/hasEmpty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasEmpty_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasEmpty_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasEmpty"@en .
+<https://w3id.org/steel/ProcessOntology/hasEmpty_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/Empty> .
+<https://w3id.org/steel/ProcessOntology/hasEmpty_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasEmpty"@en .
 <https://w3id.org/steel/ProcessOntology/hasEngineeringStrain_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasEngineeringStrain_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
 <https://w3id.org/steel/ProcessOntology/hasEngineeringStrain_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasEngineeringStrain"@en .
@@ -8892,7 +8909,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-02T16:40:44+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-06T09:24:07+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
