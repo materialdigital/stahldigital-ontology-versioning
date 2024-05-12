@@ -1733,6 +1733,18 @@
 <https://w3id.org/steel/ProcessOntology/HardeningParameterTheta1> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "\\theta_1"@en .
 <https://w3id.org/steel/ProcessOntology/HardeningParameterTheta1> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MegaPA> .
 <https://w3id.org/steel/ProcessOntology/HardeningParameterTheta1> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "MPa" .
+<https://w3id.org/steel/ProcessOntology/Hill48F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Hill48F> <http://www.w3.org/2000/01/rdf-schema#comment> "Parameter F for Hill48 yield criterion"@en .
+<https://w3id.org/steel/ProcessOntology/Hill48G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Hill48G> <http://www.w3.org/2000/01/rdf-schema#comment> "Parameter G for Hill48 yield criterion"@en .
+<https://w3id.org/steel/ProcessOntology/Hill48H> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Hill48H> <http://www.w3.org/2000/01/rdf-schema#comment> "Parameter H for Hill48 yield criterion"@en .
+<https://w3id.org/steel/ProcessOntology/Hill48L> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Hill48L> <http://www.w3.org/2000/01/rdf-schema#comment> "Parameter L for Hill48 yield criterion"@en .
+<https://w3id.org/steel/ProcessOntology/Hill48M> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Hill48M> <http://www.w3.org/2000/01/rdf-schema#comment> "Parameter M for Hill48 yield criterion"@en .
+<https://w3id.org/steel/ProcessOntology/Hill48N> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Hill48N> <http://www.w3.org/2000/01/rdf-schema#comment> "Parameter N for Hill48 yield criterion"@en .
 <https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/2000/01/rdf-schema#comment> "Material parameter N used for the flow curve extrapolation according to Hockett and Sherby (1975)."@en .
 <https://w3id.org/steel/ProcessOntology/HockettSherbyParameterN> <http://www.w3.org/2000/01/rdf-schema#label> "Hochett Sherby Parameter N"@de .
@@ -8909,7 +8921,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-06T09:24:07+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-12T21:23:54+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
