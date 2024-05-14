@@ -1034,6 +1034,7 @@
 <https://w3id.org/steel/ProcessOntology/ExperimentalWorkflow> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/steel/ProcessOntology/Workflow> .
 <https://w3id.org/steel/ProcessOntology/ExperimentalWorkflow> <http://www.w3.org/2004/02/skos/core#preflabel> "Experimental workflow"@en .
 <https://w3id.org/steel/ProcessOntology/ExperimentalWorkflow> <http://www.w3.org/2004/02/skos/core#preflabel> "Experimenteller Arbeitsablauf"@de .
+<https://w3id.org/steel/ProcessOntology/Experimentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Extension> <http://purl.org/dc/terms/description> "\"Displacement of the extensometer (!) length\" [Authors]"@en .
 <https://w3id.org/steel/ProcessOntology/Extension> <http://purl.org/dc/terms/description> "\"Verl\u00E4ngerung (der Extensometer-Messl\u00E4nge)\" [DIN EN ISO 6892-1, 3.6]"@de .
 <https://w3id.org/steel/ProcessOntology/Extension> <http://purl.org/dc/terms/description> "\"Zunahme der Extensometer-Messl\u00E4nge zu einem beliebigen Zeitpunkt des Versuchs\" [DIN EN ISO 6892-1, 3.6]"@de .
@@ -2145,6 +2146,7 @@
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "YS1-Sz0\u00B0-S1L"@de .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "deepl translator"@en .
 <https://w3id.org/steel/ProcessOntology/Machine> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "standard definition specific"@en .
+<https://w3id.org/steel/ProcessOntology/MachineLearning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/MajorTrueStrain> <http://purl.org/dc/terms/description> "\"Gr\u00F6\u00DFere Form\u00E4nderung\" [DIN EN ISO 12004-2: 2021_07, 8]"@de .
 <https://w3id.org/steel/ProcessOntology/MajorTrueStrain> <http://purl.org/dc/terms/description> "\"major true strain\" [DIN EN ISO 12004-2: 2021_07, 8]"@en .
 <https://w3id.org/steel/ProcessOntology/MajorTrueStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -2163,6 +2165,7 @@
 <https://w3id.org/steel/ProcessOntology/MajorTrueStrain> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "DIN EN ISO 12004-2: 2021_07, 8"@en .
 <https://w3id.org/steel/ProcessOntology/MajorTrueStrain> <https://w3id.org/steel/ProcessOntology/hasSymbol> "\u03B5_1"@en .
 <https://w3id.org/steel/ProcessOntology/MajorTrueStrain> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "\u03B5_1"@en .
+<https://w3id.org/steel/ProcessOntology/Manufacturing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/MassDensity> <http://purl.org/dc/terms/description> "Mass densisty of the material"@en .
 <https://w3id.org/steel/ProcessOntology/MassDensity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/MassDensity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -2307,6 +2310,9 @@
 <https://w3id.org/steel/ProcessOntology/MaterialInstabilityStrain> <https://w3id.org/steel/ProcessOntology/hasExampleData> "3" .
 <https://w3id.org/steel/ProcessOntology/MaterialInstabilityStrain> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "LS-DYNA_Manual_Volume_2"@en .
 <https://w3id.org/steel/ProcessOntology/MaterialInstabilityStrain> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "-" .
+<https://w3id.org/steel/ProcessOntology/MaterialsInformatics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/MaterialsModeling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/MaterialsScience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/MaximumForce> <http://purl.org/dc/terms/description> "\"Maximalkraft\" [Authors]"@de .
 <https://w3id.org/steel/ProcessOntology/MaximumForce> <http://purl.org/dc/terms/description> "\"highest force that the test piece withstands during the test\" [Authors]"@en .
 <https://w3id.org/steel/ProcessOntology/MaximumForce> <http://purl.org/dc/terms/description> "\"maximum force\" [ISO 26203-2, 2011, 4]"@en .
@@ -8921,7 +8927,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-12T21:23:54+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-14T05:23:59+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
