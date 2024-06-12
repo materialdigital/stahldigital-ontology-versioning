@@ -4361,6 +4361,9 @@
 <https://w3id.org/steel/ProcessOntology/Supplier> <https://w3id.org/steel/ProcessOntology/hasExampleData> "Zwick GmbH" .
 <https://w3id.org/steel/ProcessOntology/Supplier> <https://w3id.org/steel/ProcessOntology/hasExampleData> "voestalpine" .
 <https://w3id.org/steel/ProcessOntology/Supplier> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "standard definition specific"@de .
+<https://w3id.org/steel/ProcessOntology/SwitchingPoint> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/SwitchingPoint> <http://www.w3.org/2000/01/rdf-schema#label> "Umschaltpunkt"@de .
+<https://w3id.org/steel/ProcessOntology/SwitchingPoint> <http://www.w3.org/2004/02/skos/core#preflabel> "Umschaltpunkt"@de .
 <https://w3id.org/steel/ProcessOntology/TangentYieldModulus> <http://purl.org/dc/terms/description> "Slope of linear hardening, if noidentifier for hardening curve (LCSS>0) is prescibed"@en .
 <https://w3id.org/steel/ProcessOntology/TangentYieldModulus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TangentYieldModulus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -4732,6 +4735,10 @@
 <https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <http://www.w3.org/2004/02/skos/core#preflabel> "TestingMachineUncertainty"@en .
 <https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/UNITLESS> .
 <https://w3id.org/steel/ProcessOntology/TestingMachineUncertainty> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "1" .
+<https://w3id.org/steel/ProcessOntology/TestingRate2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/TestingRate2> <http://www.w3.org/2000/01/rdf-schema#comment> "Pr\u00FCfgeschwindigkeit nach Umschaltpunkt"@en .
+<https://w3id.org/steel/ProcessOntology/TestingRate2> <http://www.w3.org/2000/01/rdf-schema#label> "Pr\u00FCfgeschwindigkeit"@de .
+<https://w3id.org/steel/ProcessOntology/TestingRate2> <http://www.w3.org/2004/02/skos/core#preflabel> "Pr\u00FCfgeschwindigkeit"@de .
 <https://w3id.org/steel/ProcessOntology/TestingRate> <http://purl.org/dc/terms/description> "\"w\u00E4hrend des Versuchs verwendete Geschwindigkeit(en) als Oberbegriff\" [DIN EN ISO 6892-1, 3.7]"@de .
 <https://w3id.org/steel/ProcessOntology/TestingRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TestingRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -8963,7 +8970,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-06-12T08:24:03+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-06-12T10:24:04+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
