@@ -4118,6 +4118,14 @@
 <https://w3id.org/steel/ProcessOntology/SpecificPlasticWorkValue> <https://w3id.org/steel/ProcessOntology/hasDescriptionCitationSource> "General Knowledge"@en .
 <https://w3id.org/steel/ProcessOntology/SpecificPlasticWorkValue> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@de .
 <https://w3id.org/steel/ProcessOntology/SpecificPlasticWorkValue> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@en .
+<https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> <http://purl.org/dc/terms/description> "Cross section of a specimen, used for example in tensile tests"@en .
+<https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> <http://www.w3.org/2000/01/rdf-schema#label> "SpecimenCrossSection"@en .
+<https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://material-digital.de/pmdco/ValueObject> .
+<https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> <http://www.w3.org/2004/02/skos/core#altlabel> "Probenquerschnitt"@de .
+<https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> <http://www.w3.org/2004/02/skos/core#altlabel> "Specimen cross section"@en .
+<https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> <http://www.w3.org/2004/02/skos/core#preflabel> "SpecimenCrossSection"@en .
 <https://w3id.org/steel/ProcessOntology/SpecimenWidth> <http://purl.org/dc/terms/description> "\"verbleibende Breite des Schnittteils\" [DIN EN ISO 12004-2: 2021_07, 11]"@de .
 <https://w3id.org/steel/ProcessOntology/SpecimenWidth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/SpecimenWidth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -8004,6 +8012,16 @@
 <https://w3id.org/steel/ProcessOntology/hasSpecificPlasticWork_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasSpecificPlasticWork"@en .
 <https://w3id.org/steel/ProcessOntology/hasSpecificPlasticWork_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/SpecificPlasticWork> .
 <https://w3id.org/steel/ProcessOntology/hasSpecificPlasticWork_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasSpecificPlasticWork"@en .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection> <http://www.w3.org/2000/01/rdf-schema#label> "has SpecimenCrossSection" .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection_Object> .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection_Object> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection_Object> <http://www.w3.org/2000/01/rdf-schema#label> "hasSpecimenCrossSection"@en .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection_Object> <http://www.w3.org/2000/01/rdf-schema#range> <https://w3id.org/steel/ProcessOntology/SpecimenCrossSection> .
+<https://w3id.org/steel/ProcessOntology/hasSpecimenCrossSection_Object> <http://www.w3.org/2004/02/skos/core#preflabel> "hasSpecimenCrossSection"@en .
 <https://w3id.org/steel/ProcessOntology/hasSpecimenWidth_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> .
 <https://w3id.org/steel/ProcessOntology/hasSpecimenWidth_MilliM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
 <https://w3id.org/steel/ProcessOntology/hasSpecimenWidth_MilliM> <http://www.w3.org/2000/01/rdf-schema#label> "has SpecimenWidth" .
@@ -8945,7 +8963,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-06-12T04:24:04+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-06-12T08:24:03+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
