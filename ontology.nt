@@ -1882,6 +1882,14 @@
 <https://w3id.org/steel/ProcessOntology/InitialSheetThickness> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "t_0"@en .
 <https://w3id.org/steel/ProcessOntology/InitialSheetThickness> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/MilliM> .
 <https://w3id.org/steel/ProcessOntology/InitialSheetThickness> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "mm" .
+<https://w3id.org/steel/ProcessOntology/InitialStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/InitialStrain> <http://www.w3.org/2000/01/rdf-schema#comment> "Tensile test meta data entry from BAM file"@en .
+<https://w3id.org/steel/ProcessOntology/InitialStrain> <http://www.w3.org/2000/01/rdf-schema#label> "Anfangsdehnung"@de .
+<https://w3id.org/steel/ProcessOntology/InitialStrain> <http://www.w3.org/2004/02/skos/core#preflabel> "Anfangsdehnung"@de .
+<https://w3id.org/steel/ProcessOntology/InitialStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/InitialStress> <http://www.w3.org/2000/01/rdf-schema#comment> "Tensile test meta data entry from BAM file"@en .
+<https://w3id.org/steel/ProcessOntology/InitialStress> <http://www.w3.org/2000/01/rdf-schema#label> "Anfangsspannung"@de .
+<https://w3id.org/steel/ProcessOntology/InitialStress> <http://www.w3.org/2004/02/skos/core#preflabel> "Anfangsspannung"@de .
 <https://w3id.org/steel/ProcessOntology/InitialThickness> <http://purl.org/dc/terms/description> "\"Ausgangsblechdicke\" [DIN EN ISO 16808:2022-08, 4]"@de .
 <https://w3id.org/steel/ProcessOntology/InitialThickness> <http://purl.org/dc/terms/description> "\"Initial thickness of the sheet.\" [DIN EN ISO 16808:2022-08, 4]"@en .
 <https://w3id.org/steel/ProcessOntology/InitialThickness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
@@ -2060,6 +2068,10 @@
 <https://w3id.org/steel/ProcessOntology/LatticeStructure> <https://w3id.org/steel/ProcessOntology/hasDescriptionCitationSource> "General Knowledge"@en .
 <https://w3id.org/steel/ProcessOntology/LatticeStructure> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@de .
 <https://w3id.org/steel/ProcessOntology/LatticeStructure> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "General Knowledge"@en .
+<https://w3id.org/steel/ProcessOntology/LoadingTime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/LoadingTime> <http://www.w3.org/2000/01/rdf-schema#comment> "Tensile test meta data entry from BAM file"@en .
+<https://w3id.org/steel/ProcessOntology/LoadingTime> <http://www.w3.org/2000/01/rdf-schema#label> "Belastungszeit"@de .
+<https://w3id.org/steel/ProcessOntology/LoadingTime> <http://www.w3.org/2004/02/skos/core#preflabel> "Belastungszeit"@de .
 <https://w3id.org/steel/ProcessOntology/Location> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Location> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/Location> <http://www.w3.org/2000/01/rdf-schema#label> "Location"@en .
@@ -3758,6 +3770,10 @@
 <https://w3id.org/steel/ProcessOntology/RelativeStandardDeviationOfTheSlope> <https://w3id.org/steel/ProcessOntology/hasSymbolLatex> "S_m(rel)"@en .
 <https://w3id.org/steel/ProcessOntology/RelativeStandardDeviationOfTheSlope> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <http://qudt.org/vocab/unit/PERCENT> .
 <https://w3id.org/steel/ProcessOntology/RelativeStandardDeviationOfTheSlope> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "%" .
+<https://w3id.org/steel/ProcessOntology/RemainingStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/RemainingStress> <http://www.w3.org/2000/01/rdf-schema#comment> "Tensile test meta data entry from BAM file"@en .
+<https://w3id.org/steel/ProcessOntology/RemainingStress> <http://www.w3.org/2000/01/rdf-schema#label> "Restspannung"@de .
+<https://w3id.org/steel/ProcessOntology/RemainingStress> <http://www.w3.org/2004/02/skos/core#preflabel> "Restspannung"@de .
 <https://w3id.org/steel/ProcessOntology/Remark> <http://purl.org/dc/terms/description> "\"A specific comment about the experiment.\" [Authors]"@en .
 <https://w3id.org/steel/ProcessOntology/Remark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/Remark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -3811,6 +3827,8 @@
 <https://w3id.org/steel/ProcessOntology/RollingMill> <http://www.w3.org/2000/01/rdf-schema#label> "rolling mill"@en .
 <https://w3id.org/steel/ProcessOntology/RollingMill> <http://www.w3.org/2004/02/skos/core#preflabel> "Walzstra\u00DFe"@de .
 <https://w3id.org/steel/ProcessOntology/RollingMill> <http://www.w3.org/2004/02/skos/core#preflabel> "rolling mill"@en .
+<https://w3id.org/steel/ProcessOntology/Rp02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<https://w3id.org/steel/ProcessOntology/Rp02> <http://www.w3.org/2000/01/rdf-schema#comment> "Rp0,2 parameter"@en .
 <https://w3id.org/steel/ProcessOntology/SampleCode> <http://purl.org/dc/terms/description> "\"QR-Code from Label System\" [Authors]"@en .
 <https://w3id.org/steel/ProcessOntology/SampleCode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/SampleCode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
@@ -8927,7 +8945,7 @@
 <https://w3id.org/steel/ProcessOntology/workflowSteps> <http://www.w3.org/2004/02/skos/core#preflabel> "steps"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-05-14T05:23:59+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-06-12T04:24:04+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "0.1 (preliminary)"@en .
