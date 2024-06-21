@@ -3940,6 +3940,7 @@
 <https://w3id.org/steel/ProcessOntology/ScriptJob> <http://www.w3.org/2000/01/rdf-schema#label> "Script Job"@en .
 <https://w3id.org/steel/ProcessOntology/ScriptJob> <http://www.w3.org/2000/01/rdf-schema#subClassOf> <https://w3id.org/steel/ProcessOntology/PyironJob> .
 <https://w3id.org/steel/ProcessOntology/ScriptJob> <http://www.w3.org/2004/02/skos/core#preflabel> "Script Job"@en .
+<https://w3id.org/steel/ProcessOntology/Sensor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/SerialNumber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/SerialNumber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <https://w3id.org/steel/ProcessOntology/SerialNumber> <http://www.w3.org/2000/01/rdf-schema#label> "SerialNumber"@en .
@@ -4407,6 +4408,7 @@
 <https://w3id.org/steel/ProcessOntology/TaylorQuinneyCoefficient> <https://w3id.org/steel/ProcessOntology/hasLabelSource> "LS-DYNA_Manual_Volume_2"@en .
 <https://w3id.org/steel/ProcessOntology/TaylorQuinneyCoefficient> <https://w3id.org/steel/ProcessOntology/hasTypicalUnit> <https://qudt.org/vocab/unit/UNITLESS> .
 <https://w3id.org/steel/ProcessOntology/TaylorQuinneyCoefficient> <https://w3id.org/steel/ProcessOntology/hasTypicalUnitLabel> "1" .
+<https://w3id.org/steel/ProcessOntology/TemperatureSensor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
 <https://w3id.org/steel/ProcessOntology/TensileStrength> <http://purl.org/dc/terms/description> "\"Spannung, die der H\u00F6chstkraft entspricht\" [DIN EN ISO 6892-1, 3.10.1]"@de .
 <https://w3id.org/steel/ProcessOntology/TensileStrength> <http://purl.org/dc/terms/description> "\"stress corresponding to the maximum force\" [DIN EN ISO 6892-1, 3.10.1]"@en .
 <https://w3id.org/steel/ProcessOntology/TensileStrength> <http://purl.org/dc/terms/description> "\"tensile strength\" [Authors]"@en .
@@ -8980,7 +8982,7 @@
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/elements/1.1/description> "Vocabulary of project StahlDigital"@en .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/contributor> "Clemens Fehrenbach, Alexander Butz, Alexander Wessel, Andreas Trondl, Silke Klitschke, Paul Zierep, Lukas Morand, Dirk Helm" .
 <https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/created> "2023" .
-<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-06-17T11:24:07+00:00" .
+<https://w3id.org/steel/ProcessOntology> <http://purl.org/dc/terms/date> "2024-06-21T07:24:09+00:00" .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2000/01/rdf-schema#label> "StahlDigital Vocabulary"@en .
 <https://w3id.org/steel/ProcessOntology> <http://www.w3.org/2002/07/owl#versionInfo> "1.0"@en .
